@@ -24,7 +24,7 @@ def home():
 def plot():
 
     # Find one record of data from the mongo database
-    data_all = list(mongo.db.data_csv.find())
+    data_all = list(db.data_csv.find())
     # print(data_all[0]['fat'])
     # print(data_all[0])
     sugars=[]
@@ -45,7 +45,7 @@ def names():
     # Use Pandas to perform the sql query
     # stmt = mongo.db.data_api.distinct( "category" )
     
-    stmt = mongo.db.data_csv.distinct( "group" )
+    stmt = db.data_csv.distinct( "group" )
     # Return a list of the column names (sample names)
     return jsonify(stmt)
 
@@ -56,7 +56,7 @@ def subnames(sample):
     # Use Pandas to perform the sql query
     # stmt = mongo.db.data_api.find({'category':sample}).distinct( "name" )
     
-    stmt = mongo.db.data_csv.find({'group':sample}).distinct( "name" )
+    stmt = db.data_csv.find({'group':sample}).distinct( "name" )
     # Return a list of the column names (sample names)
     return jsonify(stmt)
 
@@ -64,7 +64,7 @@ def subnames(sample):
 def plot2(sample):
     """Return a list of sample names."""
     
-    data_all = list(mongo.db.data_csv.find({'group':sample}))
+    data_all = list(db.data_csv.find({'group':sample}))
     sugars=[]
     fats=[]
     names=[]
@@ -80,7 +80,7 @@ def plot2(sample):
 def plot3(sample):
     """Return a list of sample names."""
     
-    data_all = list(mongo.db.data_csv.find({'name':sample}))
+    data_all = list(db.data_csv.find({'name':sample}))
     sugars=[]
     fats=[]
     names=[]
@@ -103,7 +103,7 @@ def printpanel(sample):
     # for i in x:
     #     y.append(i['value'])
     # data=dict(zip(nutrient,y))
-    used_dic=list(mongo.db.data_csv.find({'name': sample}))[0]
+    used_dic=list(db.data_csv.find({'name': sample}))[0]
     data={k:v for k, v in used_dic.items() if k != '_id' and k !='id'and k !='group'and k !='name'}
         
     # # Return a list of the column names (sample names)
