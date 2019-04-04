@@ -1,10 +1,10 @@
-from flask import Flask, render_template, redirect
-from flask import Flask, jsonify, render_template
-from flask_pymongo import PyMongo
 import os
+from flask import Flask, render_template, redirect, jsonify
+import pymongo
+from pymongo import MongoClient
 
-# import pandas as pd
-import numpy as np
+MONGO_URL = os.environ.get('MONGOHQ_URL')
+client = MongoClient(MONGO_URL)
 
 # Create an instance of Flask
 app = Flask(__name__)
