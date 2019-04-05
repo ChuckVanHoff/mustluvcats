@@ -1,7 +1,7 @@
 import os
 from flask import Flask, render_template, redirect, jsonify
 import pymongo
-from pymongo import PyMongo
+from pymongo import MongoClient
 import time
 
 MONGO_URL = os.environ.get('MONGOHQ_URL')
