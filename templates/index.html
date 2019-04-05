@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html>
+<title>What's For Lunch?</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.0.0.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.0.1.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<link rel="stylesheet" href="/static/css/style.css">
+<link rel="stylesheet" href="https://rawgit.com/RhoInc/Webcharts/master/css/webcharts.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<style>
+
+</style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+    <div class="w3-bar" id="myNavbar">
+        <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
+        <i class="fa fa-bars"></i>
+        </a>
+    <a href="#home" class="w3-bar-item w3-button">HOME</a>
+    <a href="#project" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-lightbulb-o"></i> THE PROJECT</a>
+    <a href="#brandedFoods" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-dashboard"></i> BRANDED FOODS</a>
+
+    <a href="#apiData" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-bar-chart"></i> API DATA</a>
+    
+    <a href="#aboutUs" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-group"></i> ABOUT US</a>
+
+  </div>
+
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium">
+    <a href="#project" class="w3-bar-item w3-button" onclick="toggleFunction()">THE PROJECT</a>
+    <a href="#aboutUs" class="w3-bar-item w3-button" onclick="toggleFunction()">ABOUT US</a>
+    <a href="#" class="w3-bar-item w3-button">SEARCH</a>
+  </div>
+</div>
+
+<!-- ------------------------------First Parallax Image with Logo Text ----------------- -->
+<div class="bgimg-1 w3-display-container w3-opacity w3-hover-opacity-off" id="home">
+  <div class="w3-display-middle" style="white-space:nowrap;">
+    <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">WHAT'S FOR LUNCH?</span>
+  </div>
+</div>
+
+<!--------------------------------- Container (About Section) ---------------------------->
+<div class="w3-content w3-container w3-padding-64" id="project">
+  <h3 class="w3-center">ABOUT OUR PROJECT</h3>
+  <h4 class="w3-center"><em>“Ask not what you can do for your country. Ask what’s for lunch.” ― Orson Welles</em></h4>
+  <p>For centuries humans have been exploring the relationship between our health and the food that we eat. There have been weight loss diets recommended by (often questionably qualified) individuals going as far back as William Banting's 1864 book, "<a href="https://archive.org/details/letteroncorpulen00bant/page/n4">Letter On Corpulence</a>." Amazon currently boasts more than <a href="https://smile.amazon.com/s?i=stripbooks&rh=n%3A283155%2Cn%3A1000%2Cn%3A10%2Cn%3A4613&s=featured-rank&qid=1554337775&ref=sr_st_featured-rank">50,000 books on diet and weight loss</a>. <br><br>
+  Regardless of the path one chooses, the key to staying on track is knowing what's in the food that you eat. Therefore, we have pulled nutritional data from the <a href="https://ndb.nal.usda.gov/ndb/">USDA's Food Composition Databases</a> and broken out the data into a variety of visualizations to offer more insight into the foods we eat. </p></div>
+  <!-- ------------------------------ BRANDED FOODS ----------------------- -->
+
+  <!-- Second Parallax Image with Visuzlizations Text -->
+<div class="bgimg-2 w3-display-container w3-opacity-min" id="brandedFoods">
+    <div class="w3-display-middle">
+        <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">VISUALIZATIONS</span>
+    </div>
+</div>
+<!-- ----------------------------Branded food charts -------------- -->
+
+  <div class="w3-stretch w3-container w3-padding-24">
+    <h3 class="w3-center">SUGAR, FAT, CALORIES</h3>
+    <p><center>The data used in the following visualizations were pulled from the <a href="https://ndb.nal.usda.gov/ndb/docs/BFPDB_Doc.pdf">USDA Branded Food Products Database.</a></p></center>
+    <hr>
+    <br>
+    
+    <div class="w3-col m3 w3-center w3-padding-large">
+            <!-- FOOD SELECTION -->
+            <h5>Select Food</h5>
+            <select id="selDataset" onchange="optionChanged(this.value)"></select>
+            <br>
+            <select id="selDataset2" onchange="pChanged(this.value)" style="width: 255px"></select>
+            <br>
+            <input id='set2input' onchange="pChanged(this.value)" style="width: 255px"> <br>
+            <!-- NUTRIENT PANEL -->
+            <p class='big'>   </p>
+            <h1>   </h1>
+            
+            
+        </div>
+        <div class="w3-col m9 w3-center w3-padding-large">
+        <div id="bubble"></div>
+  
+      </div>
+    <div class="w3-col m6 w3-center w3-padding-large">
+        
+        <!-- NUTRIENT PANEL -->
+        <p class='big'>   </p>
+        <h1>   </h1>
+        
+        <div class="w3-card">
+            <h3 class="panel-title">Nutrients per 100g of food</h3>
+            <div id="sample-metadata" class="panel-body" align="center" >
+            </div></div>
+    </div>
+    
+    <!-- BRANDED FOOD CHARTS-->
+    <!-- SUGAR V FAT -->
+    
+    <div class="w3-col m4 w3-hide-small w3-padding-large">
+        <p class='big'>   </p>
+        <h1>   </h1>
+      <div id="bubble2"></div>  
+      
+        
+    </div></div>
+    
+    <div class="w3-content w3-container w3-padding-24">
+        <h2>Searched Food History</h2>
+        <table class="table table-hover">
+            <thead>
+            <tr>
+                <th>Group</th>
+                <th>Name</th>
+                <th>Calories</th>
+            </tr>
+            </thead>
+            <tbody id='searchedfood'>
+            </tbody>
+        </table>
+    </div>
+
+  <!-- ---------------------------- FOOD REPORT VERSION 2 API --------------------- -->
+<!-- Second Parallax Image with Visuzlizations Text -->
+<div class="bgimg-2 w3-display-container w3-opacity-min" id="apiData">
+    <div class="w3-display-middle">
+        <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">API DATA</span>
+    </div>
+</div>
+<p><center>The data used in the following visualizations were pulled from the <a href="https://ndb.nal.usda.gov/ndb/doc/apilist/API-FOOD-REPORTV2.md">USDA Food Report Version 2.</a></p></center>
+
+<div class="w3-content w3-container w3-padding-24" id="apiData">
+    <div class="col-md-12">
+        <h2>Explore Macronutrients</h2>
+        <div class="chartCPF">
+          <div id="CPFChartHeader"></div>
+          <div id="CPFChart"></div>
+      </div><br>
+      <h2>Explore Nutrients In Your Favorite Foods</h2>
+      <div class="chartNutrients">
+        <div id="nutrientsChartHeader"></div>
+        <div id="nutrientsChart"></div>
+      </div>
+    </div>
+</div>
+
+<div class="w3-row w3-center w3-padding-16">
+
+        <h2>Energy Chart</h2>
+      <div class="chartEnergy">
+        <div id="EnergyChartHeader"></div>
+        <div id="EnergyChart"></div>
+      </div>
+      <h2>Protein vs Carbs</h2>
+      <div class="chartPC">
+        <div id="ScatterControlsPC"></div>
+        <div id="ScatterChartPC"></div>
+      </div>
+      <h2>Carbs vs Fat</h2>
+      <div class="chartCF">
+        <div id="ScatterControlsCF"></div>
+        <div id="ScatterChartCF"></div>
+      </div>
+    <h2>Take Data With you</h2>
+    <div id="dataTable"></div>
+    </div>
+
+</div>
+<br><hr>
+<!-- Third Parallax Image with About Us Text -->
+<div class="bgimg-2 w3-display-container w3-opacity-min" id="aboutUs">
+  <div class="w3-display-middle">
+        <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">ABOUT US</span>
+  </div>
+</div>
+
+<!-- Container (About Us Section) -->
+<div class="w3-content w3-container w3-padding-64"></div>
+
+
+
+  <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
+  <div class="w3-row-padding w3-center">
+    <div class="w3-col m4 namecontainer">
+        <a href="https://github.com/Wenchao-W">
+            <img src="https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" style="width:100%" onclick="onClick(this)" class="nameimage w3-hover-opacity" alt="Wenchao Wang">
+            <div class="nameoverlay">
+                <div class="nametext">Wenchao Wang</div>
+            </div>
+        </a>
+    </div>
+    <div class="w3-col m4">
+        <br><br><h3 class="w3-center">Meet Team #mustLoveCats</h3>
+        <br><h4>Click to see our GitHub pages</h4>
+    </div>
+    <div class="w3-col m4 namecontainer">
+        <a href="https://github.com/zamorske">
+        <img src="https://images.pexels.com/photos/1183434/pexels-photo-1183434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" style="width:100%" onclick="onClick(this)" class="nameimage w3-hover-opacity" alt="Ed Zamorski">
+        <div class="nameoverlay">
+            <div class="nametext">Ed Zamorski</div>
+        </div>
+        </a>
+    </div>
+  </div><br>
+
+  <div class="w3-row-padding w3-center">
+    <div class="w3-col m4 namecontainer">
+        <a href="https://github.com/nandriychuk">
+            <img src="https://images.pexels.com/photos/479009/pexels-photo-479009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" style="width:100%" onclick="onClick(this)" class="nameimage w3-hover-opacity" alt="Natalia Andriychuk">
+            <div class="nameoverlay">
+                <div class="nametext">Natalia Andriychuk</div>
+            </div>
+        </a>
+    </div>
+
+    <div class="w3-col m4 namecontainer">
+        <a href="https://github.com/ChuckVanHoff">
+            <img src="https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" style="width:100%" onclick="onClick(this)" class="nameimage w3-hover-opacity" alt="Chuck VanHoff">
+            <div class="nameoverlay">
+                <div class="nametext">Chuck VanHoff</div>
+            </div>
+        </a>
+    </div>
+
+    <div class="w3-col m4 namecontainer">
+        <a href="https://github.com/emilyrush">
+            <img src="https://images.pexels.com/photos/399647/pexels-photo-399647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" style="width:100%" onclick="onClick(this)" class="nameimage w3-hover-opacity" alt="Emily Rush">
+            <div class="nameoverlay">
+                <div class="nametext">Emily Rush</div>
+            </div>
+        </div>
+    </a>
+</div>
+<br>
+<!-- ------------------------------------ Footer ------------------------------------ -->
+<footer class="bgimg-3 w3-center w3-black w3-padding-64 w3-opacity w3-hover-opacity-off" style="padding-top: 20px">
+  <a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+</footer>
+ 
+<script>
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+
+// Change style of navbar on scroll
+window.onscroll = function() {myFunction()};
+function myFunction() {
+    var navbar = document.getElementById("myNavbar");
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+        navbar.className = "w3-bar" + " w3-card" + " w3-animate-top" + " w3-white";
+    } else {
+        navbar.className = navbar.className.replace(" w3-card w3-animate-top w3-white", "");
+    }
+}
+
+// Used to toggle the menu on small screens when clicking on the menu button
+function toggleFunction() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else {
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+</script>
+  
+
+  
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script>
+    d3v5 = d3
+    window.d3 = null
+  </script>
+  <script src="/static/js/app.js"></script>
+  <script src="/static/js/plot.js"></script>  
+  
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  
+  <script src="https://rawgit.com/RhoInc/Webcharts/master/build/webcharts.js"></script>
+  <script src="/static/js/appHTML1.js"></script>
+  <script src="/static/js/appHTML2.js"></script>
+ 
+</body>
+</html>
