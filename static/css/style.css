@@ -1,44 +1,92 @@
-.fakeimg {
-    height: 200px;
-    background: #aaa;
-    }
-.jumbotron {
-  /* image source https://www.pexels.com/ */
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
+body, html {
+  height: 100%;
+  color: #777;
+  line-height: 1.8;
+}
+h6 {
+    align: left;
+}
+
+/* Create a Parallax Effect */
+.bgimg-1, .bgimg-2, .bgimg-3 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* First image (Logo. Full height) */
+.bgimg-1 {
+  background-image: url("https://images.pexels.com/photos/1128678/pexels-photo-1128678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  min-height: 100%;
+}
+
+/* Second image (Visualizations) */
+.bgimg-2 {
+  background-image: url("https://images.pexels.com/photos/1128678/pexels-photo-1128678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  min-height: 300px;
+}
+/* Second image (Footer) */
+.bgimg-3 {
     background-image: url("https://images.pexels.com/photos/1128678/pexels-photo-1128678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
-    background-size: 100%;
-    }
-#bubble {
-    display: inline-block;
-}
-#bubble2 {
-    height: 100px;
-    width: 100px;
-}
-#panel {
-    display: inline-block;
-}
-.container {
-    margin-top: 30px;
-}
-.svg-container {
-    height: 120px;
-    width: 120px;
-}
-.grid-container {
-    display: grid;
-    grid-template-areas:
-      'header header header header header header'
-      'menu main main main right right'
-      'menu footer footer footer footer footer';
-    grid-gap: 10px;
-    padding: 10px;
-}
-.item2 {
-    margin-top: 30px;
-}
-.clearfix {
-overflow: auto;
-}
+    min-height: 250px;
+  }
+
+
+.w3-wide {letter-spacing: 10px;}
+.w3-hover-opacity {cursor: pointer;}
+
+/* Turn off parallax scrolling for tablets and phones */
+/* @media only screen and (max-device-width: 1600px) {
+  .bgimg-1, .bgimg-2, .bgimg-3 {
+    background-attachment: scroll;
+    min-height: 400px;
+  }
+} */
+/* Sets the food selection dropdown background to white */
 .ui-front {
     background: white;
- }
+}
+/* Overlay text on "about us" */
+.namecontainer {
+    position: relative;
+    width: 50%;
+  }
+  
+  .nameimage {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .nameoverlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #7DBC1D;
+  }
+  
+  .namecontainer:hover .nameoverlay {
+    opacity: 1;
+  }
+  
+  .nametext {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+#sample-metadata {
+}
