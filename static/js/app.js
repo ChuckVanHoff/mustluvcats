@@ -2,30 +2,34 @@ function init() {
   // Grab a reference to the dropdown select element
   var selector = d3.select("#selDataset");
 
-  // Use the list of sample names to populate the select options
-  d3.json("/names").then((sampleNames) => {
+  // Populate the select options with the food group
+  d3.json("/group").then((sampleNames) => {
     sampleNames.forEach((sample) => {
       selector
         .append("option")
         .text(sample)
         .property("value", sample);
     });
-       
+  
+  // Plot the all data scatter plot
   buildCharts();
   });
 }
 
 function secdrop(sample) {
-  // Grab a reference to the dropdown select element
+  // Grab a reference to the second dropdown select element
   var selector = d3.select("#selDataset2");
-  // selector.option.map(i=> console.log(i));
-  // Use the list of sample names to populate the select options
+  
+  // clean the current dropdown
   $("#selDataset2")
   .find('option')
   .remove()
   .end();
+
+  // Populate the select options with the food names
+  var values = [];
   d3.json(`/names/${sample}`).then((sampleNames) => {
-    var values = [];
+    
     sampleNames.forEach((sample) => {
       selector
         .append("option")
@@ -33,7 +37,8 @@ function secdrop(sample) {
         .property("value", sample);
       values.push(sample)
     });
-
+  
+  // Give the autocomplete within the food names for the input
   $( "#set2input" ).autocomplete({
       source: values
     });
@@ -41,37 +46,66 @@ function secdrop(sample) {
   });
 }
 
-function buildMetadata(sample) {
+// Input the nutrients data of the selected food to a panel
+function buildNutrientsdata(sample) {
   d3.json(`/print/${sample}`).then((data) => {
-    // Use d3 to select the panel with id of `#sample-metadata`
+    // Grab the reference ID to put the data
     var PANEL = d3.select("#sample-metadata");
-    console.log(data);
-    // Use `.html("") to clear any existing metadata
+    // console.log(data);
+    // Clear any existing panel data
     PANEL.html("");
 
-    // Use `Object.entries` to add each key and value pair to the panel
-    // Hint: Inside the loop, you will need to use d3 to append new
-    // tags for each key-value in the metadata.
+    // Input the panel data with the select food nutrients
     Object.entries(data).forEach(([key, value]) => {
       PANEL.append("h6").text(`${key}: ${value}`);
     });
+
+    // Build the Gauge with the selected food's calories data
     buildGauge(data.calories);
   });
 }
 
+// Record the selected food history
+function selectedfood() {
+  d3.json(`/print2`).then((data) => {
+    // select the reference ID to input the data
+    var PANEL = d3.select("#searchedfood");
+    // console.log(data);
+    // Clear any existing metadata
+    PANEL.html("");
+    // Create the table and input the data 
+    data.forEach((sample) => {
+      PANEL
+          .append("tr");
+      PANEL
+          .append('td')
+          .text(sample.group);
+      PANEL
+          .append('td')
+          .text(sample.name);
+      PANEL
+          .append('td')
+          .text(sample.calories);
+        
+        })
+  });
+}
 
+// While the first dropdown changed, act the below fuctions
 function optionChanged(newSample) {
   // Fetch new data each time a new sample is selected
-  console.log(newSample);
+  // console.log(newSample);
   secdrop(newSample);
   buildCharts2(newSample)
 }
 
+// While the second dropdown and autocomplete input changed, act the below fuctions
 function pChanged(newSample) {
   // Fetch new data each time a new sample is selected
-  console.log(newSample);
-  buildMetadata(newSample);
+  // console.log(newSample);
+  buildNutrientsdata(newSample);
   buildCharts3(newSample)
+  selectedfood()
 }
 // Initialize the dashboard
 init();
