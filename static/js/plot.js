@@ -1,4 +1,4 @@
-
+// Built the all data scatter plot
 function buildCharts() {
   d3.json(`/plot`).then((data) => {
     const sugar = data.sugars;
@@ -54,8 +54,10 @@ function buildCharts() {
 
   });
 }
+// Define the trace number for robust selection conditions
 var lastTrace;
 var lastTrace2;
+// Built the group data scatter plot fat vs sugar overwrite at the same element with the same template
 function buildCharts2(sample) {
     d3.json(`/plot/${sample}`).then((data) => {
       const sugar = data.sugars;
@@ -92,23 +94,16 @@ function buildCharts2(sample) {
         Plotly.deleteTraces('bubble',1)
         console.log('triggerlastTrace3')
       }
-      // if (lastTrace&&lastTrace2) {
-      //   Plotly.deleteTraces('bubble', lastTrace2)
-      //   Plotly.deleteTraces('bubble', lastTrace)
-      // } 
-      
+            
       Plotly.plot('bubble', bubbleData, bubbleLayout);
       lastTrace = document.getElementById('bubble').data.length-1; 
       console.log(lastTrace);
         
-
     });
   }
-// var lastTrace;
+// Overwrite with the selected food
 function buildCharts3(sample) {
-  // d3.select("#set2input").value='';
-  // 
-
+  
     d3.json(`/plot2/${sample}`).then((data) => {
       const sugar = data.sugars;
       const namelabel = data.names;
@@ -145,8 +140,8 @@ function buildCharts3(sample) {
     });
   }
   
-
-  function buildGauge(wfreq) {
+// Build the calories gauge
+function buildGauge(wfreq) {
     console.log(wfreq);
     // Enter the washing frequency between 0 and 180
     var level = parseFloat(wfreq)/5;
