@@ -1,9 +1,9 @@
 function init() {
   // Grab a reference to the dropdown select element
-  var selector = d3v5.select("#selDataset");
+  var selector = lovecats.select("#selDataset");
 
   // Populate the select options with the food group
-  d3v5.json("/group").then((sampleNames) => {
+  lovecats.json("/group").then((sampleNames) => {
     sampleNames.forEach((sample) => {
       selector
         .append("option")
@@ -18,7 +18,7 @@ function init() {
 
 function secdrop(sample) {
   // Grab a reference to the second dropdown select element
-  var selector = d3v5.select("#selDataset2");
+  var selector = lovecats.select("#selDataset2");
   
   // clean the current dropdown
   $("#selDataset2")
@@ -28,7 +28,7 @@ function secdrop(sample) {
 
   // Populate the select options with the food names
   var values = [];
-  d3v5.json(`/names/${sample}`).then((sampleNames) => {
+  lovecats.json(`/names/${sample}`).then((sampleNames) => {
     
     sampleNames.forEach((sample) => {
       selector
@@ -48,9 +48,9 @@ function secdrop(sample) {
 
 // Input the nutrients data of the selected food to a panel
 function buildNutrientsdata(sample) {
-  d3v5.json(`/print/${sample}`).then((data) => {
+  lovecats.json(`/print/${sample}`).then((data) => {
     // Grab the reference ID to put the data
-    var PANEL = d3v5.select("#sample-metadata");
+    var PANEL = lovecats.select("#sample-metadata");
     // console.log(data);
     // Clear any existing panel data
     PANEL.html("");
@@ -67,9 +67,9 @@ function buildNutrientsdata(sample) {
 
 // Record the selected food history
 function selectedfood() {
-  d3v5.json(`/print2`).then((data) => {
+  lovecats.json(`/print2`).then((data) => {
     // select the reference ID to input the data
-    var PANEL = d3v5.select("#searchedfood");
+    var PANEL = lovecats.select("#searchedfood");
     // console.log(data);
     // Clear any existing metadata
     PANEL.html("");

@@ -1,6 +1,6 @@
 // Built the all data scatter plot
 function buildCharts() {
-  d3v5.json(`/plot`).then((data) => {
+  lovecats.json(`/plot`).then((data) => {
     const sugar = data.sugars;
     const namelabel = data.names;
     const fat = data.fats;
@@ -59,7 +59,7 @@ var lastTrace;
 var lastTrace2;
 // Built the group data scatter plot fat vs sugar overwrite at the same element with the same template
 function buildCharts2(sample) {
-  d3v5.json(`/plot/${sample}`).then((data) => {
+  lovecats.json(`/plot/${sample}`).then((data) => {
       const sugar = data.sugars;
       const namelabel = data.names;
       const fat = data.fats;
@@ -104,7 +104,7 @@ function buildCharts2(sample) {
 // Overwrite with the selected food
 function buildCharts3(sample) {
   
-  d3v5.json(`/plot2/${sample}`).then((data) => {
+  lovecats.json(`/plot2/${sample}`).then((data) => {
       const sugar = data.sugars;
       const namelabel = data.names;
       const fat = data.fats;
