@@ -9,6 +9,10 @@ function buildCharts() {
     var bubbleLayout = {
       margin: { t: 0 },
       hovermode: "closest",
+      legend: {
+        x: 0.1,
+        y: 1.2
+      },
       // title: {
       //   text:'Fat vs Sugar',
   
@@ -44,7 +48,11 @@ function buildCharts() {
         marker: {
           size: 10,
           color: 'grey',
-          colorscale: "Earth"
+          colorscale: "Earth",
+          line: {
+            color: 'rgb(105, 105, 105)',
+            width: 0.5
+          }
         }
       }
     ];
@@ -80,7 +88,11 @@ function buildCharts2(sample) {
           marker: {
             size: 5,
             color: 'red',
-            colorscale: "Earth"
+            colorscale: "Earth",
+            line: {
+              color: 'rgb(105, 105, 105)',
+              width: 0.5
+            }
           }
         }
       ];

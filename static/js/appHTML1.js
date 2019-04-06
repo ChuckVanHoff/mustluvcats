@@ -9,7 +9,7 @@ var settingsCPF = {
       column: 'nutrient'
   },
   y: {
-      label: 'mean value',
+      label: 'grams (mean)',
       type: 'linear',
       column: 'value',
       behavior: "firstfilter"
@@ -67,7 +67,7 @@ var settingsNutrients = {
       sort: 'total-descending'
   },
   x: {
-      label: 'mean value',
+      label: 'grams',
       type: 'linear',
       column: 'value'
   },
@@ -96,7 +96,7 @@ var controlsNutrients = webCharts.createControls('#nutrientsChartHeader',
 		location: 'top', 
 		inputs:[
       {type: "subsetter", value_col: "category", label: "Filter by Category"},
-      // {type: "subsetter", value_col: "name", label: "Filter by Name", multiple: true}
+      {type: "subsetter", value_col: "nutrient", label: "Filter by Nutrient"}
 		]
 	}
 );
