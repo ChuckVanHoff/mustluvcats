@@ -27,8 +27,8 @@ var settingsCPF = {
   "color_by":"category",
   colors:['rgb(102,194,165)','#fc8d59','#fecc5c',"rgb(43,131,186)",'#e34a33'],
   "legend":{
-    		"label":"",
-    		"order": ["vegetables", "grains", "meats", "dairy", "fruit"]
+    		"label":"Carbs, Protiens, Fats",
+    		"order": ["fruits", "vegetables", "grains", "meats", "dairy"]
     	}
 };
 
