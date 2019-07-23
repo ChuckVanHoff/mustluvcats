@@ -4,6 +4,7 @@ function init() {
 
   // Populate the select options with the food group
   lovecats.json("/group").then((sampleNames) => {
+    console.log("sampleNames" + sampleNames)
     sampleNames.forEach((sample) => {
       selector
         .append("option")
