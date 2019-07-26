@@ -5,11 +5,11 @@ from pymongo import MongoClient
 import time
 
 # Get the mongo uri and make the database connection
-MONGO_URL = os.environ.get('MONGOHQ_URL')
-uri = MONGO_URL
+# MONGO_URL = os.environ.get('MONGOHQ_URL')
+uri = 'mongodb+srv://mastacow:bachuck@mustluvcats-fdbzf.mongodb.net/food?retryWrites=true&w=majority'
 # uri = "mongodb://localhost:27017/project_two"
 client = MongoClient(uri)
-db = client.app129715353
+db = client.food
 
 # Create an instance of Flask
 app = Flask(__name__)
