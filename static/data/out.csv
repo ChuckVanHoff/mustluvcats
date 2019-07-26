@@ -1,0 +1,813 @@
+_id,category,name,id,nutrient,value,unit
+5d3ae6823711cf27f6a3be79,vegetables,"Asparagus, raw",11011,Water,93.22,g
+5d3ae6823711cf27f6a3be7a,vegetables,"Asparagus, raw",11011,Energy,20,kcal
+5d3ae6823711cf27f6a3be7b,vegetables,"Asparagus, raw",11011,Protein,2.20,g
+5d3ae6823711cf27f6a3be7c,vegetables,"Asparagus, raw",11011,Total lipid (fat),0.12,g
+5d3ae6823711cf27f6a3be7d,vegetables,"Asparagus, raw",11011,"Carbohydrate, by difference",3.88,g
+5d3ae6823711cf27f6a3be7e,vegetables,"Asparagus, raw",11011,"Fiber, total dietary",2.1,g
+5d3ae6823711cf27f6a3be7f,vegetables,"Asparagus, raw",11011,"Sugars, total",1.88,g
+5d3ae6823711cf27f6a3be80,vegetables,"Beets, raw",11080,Water,87.58,g
+5d3ae6823711cf27f6a3be81,vegetables,"Beets, raw",11080,Energy,43,kcal
+5d3ae6823711cf27f6a3be82,vegetables,"Beets, raw",11080,Protein,1.61,g
+5d3ae6823711cf27f6a3be83,vegetables,"Beets, raw",11080,Total lipid (fat),0.17,g
+5d3ae6823711cf27f6a3be84,vegetables,"Beets, raw",11080,"Carbohydrate, by difference",9.56,g
+5d3ae6823711cf27f6a3be85,vegetables,"Beets, raw",11080,"Fiber, total dietary",2.8,g
+5d3ae6823711cf27f6a3be86,vegetables,"Beets, raw",11080,"Sugars, total",6.76,g
+5d3ae6823711cf27f6a3be87,vegetables,"Broccoli, raw",11090,Water,89.30,g
+5d3ae6823711cf27f6a3be88,vegetables,"Broccoli, raw",11090,Energy,34,kcal
+5d3ae6823711cf27f6a3be89,vegetables,"Broccoli, raw",11090,Protein,2.82,g
+5d3ae6823711cf27f6a3be8a,vegetables,"Broccoli, raw",11090,Total lipid (fat),0.37,g
+5d3ae6823711cf27f6a3be8b,vegetables,"Broccoli, raw",11090,"Carbohydrate, by difference",6.64,g
+5d3ae6823711cf27f6a3be8c,vegetables,"Broccoli, raw",11090,"Fiber, total dietary",2.6,g
+5d3ae6823711cf27f6a3be8d,vegetables,"Broccoli, raw",11090,"Sugars, total",1.70,g
+5d3ae6823711cf27f6a3be8e,vegetables,"Cabbage, raw",11109,Water,92.18,g
+5d3ae6823711cf27f6a3be8f,vegetables,"Cabbage, raw",11109,Energy,25,kcal
+5d3ae6823711cf27f6a3be90,vegetables,"Cabbage, raw",11109,Protein,1.28,g
+5d3ae6823711cf27f6a3be91,vegetables,"Cabbage, raw",11109,Total lipid (fat),0.10,g
+5d3ae6823711cf27f6a3be92,vegetables,"Cabbage, raw",11109,"Carbohydrate, by difference",5.80,g
+5d3ae6823711cf27f6a3be93,vegetables,"Cabbage, raw",11109,"Fiber, total dietary",2.5,g
+5d3ae6823711cf27f6a3be94,vegetables,"Cabbage, raw",11109,"Sugars, total",3.20,g
+5d3ae6823711cf27f6a3be95,vegetables,"Carrots, raw",11124,Water,88.29,g
+5d3ae6823711cf27f6a3be96,vegetables,"Carrots, raw",11124,Energy,41,kcal
+5d3ae6823711cf27f6a3be97,vegetables,"Carrots, raw",11124,Protein,0.93,g
+5d3ae6823711cf27f6a3be98,vegetables,"Carrots, raw",11124,Total lipid (fat),0.24,g
+5d3ae6823711cf27f6a3be99,vegetables,"Carrots, raw",11124,"Carbohydrate, by difference",9.58,g
+5d3ae6823711cf27f6a3be9a,vegetables,"Carrots, raw",11124,"Fiber, total dietary",2.8,g
+5d3ae6823711cf27f6a3be9b,vegetables,"Carrots, raw",11124,"Sugars, total",4.74,g
+5d3ae6823711cf27f6a3be9c,vegetables,"Cauliflower, raw",11135,Water,92.07,g
+5d3ae6823711cf27f6a3be9d,vegetables,"Cauliflower, raw",11135,Energy,25,kcal
+5d3ae6823711cf27f6a3be9e,vegetables,"Cauliflower, raw",11135,Protein,1.92,g
+5d3ae6823711cf27f6a3be9f,vegetables,"Cauliflower, raw",11135,Total lipid (fat),0.28,g
+5d3ae6823711cf27f6a3bea0,vegetables,"Cauliflower, raw",11135,"Carbohydrate, by difference",4.97,g
+5d3ae6823711cf27f6a3bea1,vegetables,"Cauliflower, raw",11135,"Fiber, total dietary",2.0,g
+5d3ae6823711cf27f6a3bea2,vegetables,"Cauliflower, raw",11135,"Sugars, total",1.91,g
+5d3ae6823711cf27f6a3bea3,vegetables,"Celery, raw",11143,Water,95.43,g
+5d3ae6823711cf27f6a3bea4,vegetables,"Celery, raw",11143,Energy,14,kcal
+5d3ae6823711cf27f6a3bea5,vegetables,"Celery, raw",11143,Protein,0.69,g
+5d3ae6823711cf27f6a3bea6,vegetables,"Celery, raw",11143,Total lipid (fat),0.17,g
+5d3ae6823711cf27f6a3bea7,vegetables,"Celery, raw",11143,"Carbohydrate, by difference",2.97,g
+5d3ae6823711cf27f6a3bea8,vegetables,"Celery, raw",11143,"Fiber, total dietary",1.6,g
+5d3ae6823711cf27f6a3bea9,vegetables,"Celery, raw",11143,"Sugars, total",1.34,g
+5d3ae6823711cf27f6a3beaa,vegetables,"Cucumber, with peel, raw",11205,Water,95.23,g
+5d3ae6823711cf27f6a3beab,vegetables,"Cucumber, with peel, raw",11205,Energy,15,kcal
+5d3ae6823711cf27f6a3beac,vegetables,"Cucumber, with peel, raw",11205,Protein,0.65,g
+5d3ae6823711cf27f6a3bead,vegetables,"Cucumber, with peel, raw",11205,Total lipid (fat),0.11,g
+5d3ae6823711cf27f6a3beae,vegetables,"Cucumber, with peel, raw",11205,"Carbohydrate, by difference",3.63,g
+5d3ae6823711cf27f6a3beaf,vegetables,"Cucumber, with peel, raw",11205,"Fiber, total dietary",0.5,g
+5d3ae6823711cf27f6a3beb0,vegetables,"Cucumber, with peel, raw",11205,"Sugars, total",1.67,g
+5d3ae6823711cf27f6a3beb1,vegetables,"Eggplant, cooked, boiled, drained, without salt",11210,Water,89.67,g
+5d3ae6823711cf27f6a3beb2,vegetables,"Eggplant, cooked, boiled, drained, without salt",11210,Energy,35,kcal
+5d3ae6823711cf27f6a3beb3,vegetables,"Eggplant, cooked, boiled, drained, without salt",11210,Protein,0.83,g
+5d3ae6823711cf27f6a3beb4,vegetables,"Eggplant, cooked, boiled, drained, without salt",11210,Total lipid (fat),0.23,g
+5d3ae6823711cf27f6a3beb5,vegetables,"Eggplant, cooked, boiled, drained, without salt",11210,"Carbohydrate, by difference",8.73,g
+5d3ae6823711cf27f6a3beb6,vegetables,"Eggplant, cooked, boiled, drained, without salt",11210,"Fiber, total dietary",2.5,g
+5d3ae6823711cf27f6a3beb7,vegetables,"Eggplant, cooked, boiled, drained, without salt",11210,"Sugars, total",3.20,g
+5d3ae6823711cf27f6a3beb8,vegetables,"Mushrooms, shiitake, raw",11238,Water,89.74,g
+5d3ae6823711cf27f6a3beb9,vegetables,"Mushrooms, shiitake, raw",11238,Energy,34,kcal
+5d3ae6823711cf27f6a3beba,vegetables,"Mushrooms, shiitake, raw",11238,Protein,2.24,g
+5d3ae6823711cf27f6a3bebb,vegetables,"Mushrooms, shiitake, raw",11238,Total lipid (fat),0.49,g
+5d3ae6823711cf27f6a3bebc,vegetables,"Mushrooms, shiitake, raw",11238,"Carbohydrate, by difference",6.79,g
+5d3ae6823711cf27f6a3bebd,vegetables,"Mushrooms, shiitake, raw",11238,"Fiber, total dietary",2.5,g
+5d3ae6823711cf27f6a3bebe,vegetables,"Mushrooms, shiitake, raw",11238,"Sugars, total",2.38,g
+5d3ae6823711cf27f6a3bebf,vegetables,"Lentils, sprouted, raw",11248,Water,67.34,g
+5d3ae6823711cf27f6a3bec0,vegetables,"Lentils, sprouted, raw",11248,Energy,106,kcal
+5d3ae6823711cf27f6a3bec1,vegetables,"Lentils, sprouted, raw",11248,Protein,8.96,g
+5d3ae6823711cf27f6a3bec2,vegetables,"Lentils, sprouted, raw",11248,Total lipid (fat),0.55,g
+5d3ae6823711cf27f6a3bec3,vegetables,"Lentils, sprouted, raw",11248,"Carbohydrate, by difference",22.14,g
+5d3ae6823711cf27f6a3bec4,vegetables,"Lentils, sprouted, raw",11248,"Calcium, Ca",25,mg
+5d3ae6823711cf27f6a3bec5,vegetables,"Lentils, sprouted, raw",11248,"Iron, Fe",3.21,mg
+5d3ae6823711cf27f6a3bec6,vegetables,"Lettuce, green leaf, raw",11253,Water,94.98,g
+5d3ae6823711cf27f6a3bec7,vegetables,"Lettuce, green leaf, raw",11253,Energy,15,kcal
+5d3ae6823711cf27f6a3bec8,vegetables,"Lettuce, green leaf, raw",11253,Protein,1.36,g
+5d3ae6823711cf27f6a3bec9,vegetables,"Lettuce, green leaf, raw",11253,Total lipid (fat),0.15,g
+5d3ae6823711cf27f6a3beca,vegetables,"Lettuce, green leaf, raw",11253,"Carbohydrate, by difference",2.87,g
+5d3ae6823711cf27f6a3becb,vegetables,"Lettuce, green leaf, raw",11253,"Fiber, total dietary",1.3,g
+5d3ae6823711cf27f6a3becc,vegetables,"Lettuce, green leaf, raw",11253,"Sugars, total",0.78,g
+5d3ae6823711cf27f6a3becd,vegetables,"Onions, sweet, raw",11294,Water,91.24,g
+5d3ae6823711cf27f6a3bece,vegetables,"Onions, sweet, raw",11294,Energy,32,kcal
+5d3ae6823711cf27f6a3becf,vegetables,"Onions, sweet, raw",11294,Protein,0.80,g
+5d3ae6823711cf27f6a3bed0,vegetables,"Onions, sweet, raw",11294,Total lipid (fat),0.08,g
+5d3ae6823711cf27f6a3bed1,vegetables,"Onions, sweet, raw",11294,"Carbohydrate, by difference",7.55,g
+5d3ae6823711cf27f6a3bed2,vegetables,"Onions, sweet, raw",11294,"Fiber, total dietary",0.9,g
+5d3ae6823711cf27f6a3bed3,vegetables,"Onions, sweet, raw",11294,"Sugars, total",5.02,g
+5d3ae6823711cf27f6a3bed4,vegetables,"Peas, green, raw",11304,Water,78.86,g
+5d3ae6823711cf27f6a3bed5,vegetables,"Peas, green, raw",11304,Energy,81,kcal
+5d3ae6823711cf27f6a3bed6,vegetables,"Peas, green, raw",11304,Protein,5.42,g
+5d3ae6823711cf27f6a3bed7,vegetables,"Peas, green, raw",11304,Total lipid (fat),0.40,g
+5d3ae6823711cf27f6a3bed8,vegetables,"Peas, green, raw",11304,"Carbohydrate, by difference",14.45,g
+5d3ae6823711cf27f6a3bed9,vegetables,"Peas, green, raw",11304,"Fiber, total dietary",5.7,g
+5d3ae6823711cf27f6a3beda,vegetables,"Peas, green, raw",11304,"Sugars, total",5.67,g
+5d3ae6823711cf27f6a3bedb,vegetables,"Peppers, sweet, green, raw",11333,Water,93.89,g
+5d3ae6823711cf27f6a3bedc,vegetables,"Peppers, sweet, green, raw",11333,Energy,20,kcal
+5d3ae6823711cf27f6a3bedd,vegetables,"Peppers, sweet, green, raw",11333,Protein,0.86,g
+5d3ae6823711cf27f6a3bede,vegetables,"Peppers, sweet, green, raw",11333,Total lipid (fat),0.17,g
+5d3ae6823711cf27f6a3bedf,vegetables,"Peppers, sweet, green, raw",11333,"Carbohydrate, by difference",4.64,g
+5d3ae6823711cf27f6a3bee0,vegetables,"Peppers, sweet, green, raw",11333,"Fiber, total dietary",1.7,g
+5d3ae6823711cf27f6a3bee1,vegetables,"Peppers, sweet, green, raw",11333,"Sugars, total",2.40,g
+5d3ae6823711cf27f6a3bee2,vegetables,"Potatoes, white, flesh and skin, baked",11357,Water,75.43,g
+5d3ae6823711cf27f6a3bee3,vegetables,"Potatoes, white, flesh and skin, baked",11357,Energy,92,kcal
+5d3ae6823711cf27f6a3bee4,vegetables,"Potatoes, white, flesh and skin, baked",11357,Protein,2.10,g
+5d3ae6823711cf27f6a3bee5,vegetables,"Potatoes, white, flesh and skin, baked",11357,Total lipid (fat),0.15,g
+5d3ae6823711cf27f6a3bee6,vegetables,"Potatoes, white, flesh and skin, baked",11357,"Carbohydrate, by difference",21.08,g
+5d3ae6823711cf27f6a3bee7,vegetables,"Potatoes, white, flesh and skin, baked",11357,"Fiber, total dietary",2.1,g
+5d3ae6823711cf27f6a3bee8,vegetables,"Potatoes, white, flesh and skin, baked",11357,"Sugars, total",1.53,g
+5d3ae6823711cf27f6a3bee9,vegetables,"Squash, winter, acorn, cooked, boiled, mashed, without salt",11484,Water,89.70,g
+5d3ae6823711cf27f6a3beea,vegetables,"Squash, winter, acorn, cooked, boiled, mashed, without salt",11484,Energy,34,kcal
+5d3ae6823711cf27f6a3beeb,vegetables,"Squash, winter, acorn, cooked, boiled, mashed, without salt",11484,Protein,0.67,g
+5d3ae6823711cf27f6a3beec,vegetables,"Squash, winter, acorn, cooked, boiled, mashed, without salt",11484,Total lipid (fat),0.08,g
+5d3ae6823711cf27f6a3beed,vegetables,"Squash, winter, acorn, cooked, boiled, mashed, without salt",11484,"Carbohydrate, by difference",8.79,g
+5d3ae6823711cf27f6a3beee,vegetables,"Squash, winter, acorn, cooked, boiled, mashed, without salt",11484,"Fiber, total dietary",2.6,g
+5d3ae6823711cf27f6a3beef,vegetables,"Squash, winter, acorn, cooked, boiled, mashed, without salt",11484,"Calcium, Ca",26,mg
+5d3ae6823711cf27f6a3bef0,vegetables,"Tomatoes, orange, raw",11695,Water,94.78,g
+5d3ae6823711cf27f6a3bef1,vegetables,"Tomatoes, orange, raw",11695,Energy,16,kcal
+5d3ae6823711cf27f6a3bef2,vegetables,"Tomatoes, orange, raw",11695,Protein,1.16,g
+5d3ae6823711cf27f6a3bef3,vegetables,"Tomatoes, orange, raw",11695,Total lipid (fat),0.19,g
+5d3ae6823711cf27f6a3bef4,vegetables,"Tomatoes, orange, raw",11695,"Carbohydrate, by difference",3.18,g
+5d3ae6823711cf27f6a3bef5,vegetables,"Tomatoes, orange, raw",11695,"Fiber, total dietary",0.9,g
+5d3ae6823711cf27f6a3bef6,vegetables,"Tomatoes, orange, raw",11695,"Calcium, Ca",5,mg
+5d3ae6823711cf27f6a3bef7,vegetables,"Beans, snap, yellow, canned, regular pack, drained solids",11932,Water,93.30,g
+5d3ae6823711cf27f6a3bef8,vegetables,"Beans, snap, yellow, canned, regular pack, drained solids",11932,Energy,20,kcal
+5d3ae6823711cf27f6a3bef9,vegetables,"Beans, snap, yellow, canned, regular pack, drained solids",11932,Protein,1.15,g
+5d3ae6823711cf27f6a3befa,vegetables,"Beans, snap, yellow, canned, regular pack, drained solids",11932,Total lipid (fat),0.10,g
+5d3ae6823711cf27f6a3befb,vegetables,"Beans, snap, yellow, canned, regular pack, drained solids",11932,"Carbohydrate, by difference",4.50,g
+5d3ae6823711cf27f6a3befc,vegetables,"Beans, snap, yellow, canned, regular pack, drained solids",11932,"Fiber, total dietary",1.3,g
+5d3ae6823711cf27f6a3befd,vegetables,"Beans, snap, yellow, canned, regular pack, drained solids",11932,"Sugars, total",0.78,g
+5d3ae6823711cf27f6a3befe,vegetables,"Asparagus, cooked, boiled, drained, with salt",11705,Water,92.63,g
+5d3ae6823711cf27f6a3beff,vegetables,"Asparagus, cooked, boiled, drained, with salt",11705,Energy,22,kcal
+5d3ae6823711cf27f6a3bf00,vegetables,"Asparagus, cooked, boiled, drained, with salt",11705,Protein,2.40,g
+5d3ae6823711cf27f6a3bf01,vegetables,"Asparagus, cooked, boiled, drained, with salt",11705,Total lipid (fat),0.22,g
+5d3ae6823711cf27f6a3bf02,vegetables,"Asparagus, cooked, boiled, drained, with salt",11705,"Carbohydrate, by difference",4.11,g
+5d3ae6823711cf27f6a3bf03,vegetables,"Asparagus, cooked, boiled, drained, with salt",11705,"Fiber, total dietary",2.0,g
+5d3ae6823711cf27f6a3bf04,vegetables,"Asparagus, cooked, boiled, drained, with salt",11705,"Sugars, total",1.30,g
+5d3ae6823711cf27f6a3bf05,vegetables,"Garlic, raw",11215,Water,58.58,g
+5d3ae6823711cf27f6a3bf06,vegetables,"Garlic, raw",11215,Energy,149,kcal
+5d3ae6823711cf27f6a3bf07,vegetables,"Garlic, raw",11215,Protein,6.36,g
+5d3ae6823711cf27f6a3bf08,vegetables,"Garlic, raw",11215,Total lipid (fat),0.50,g
+5d3ae6823711cf27f6a3bf09,vegetables,"Garlic, raw",11215,"Carbohydrate, by difference",33.06,g
+5d3ae6823711cf27f6a3bf0a,vegetables,"Garlic, raw",11215,"Fiber, total dietary",2.1,g
+5d3ae6823711cf27f6a3bf0b,vegetables,"Garlic, raw",11215,"Sugars, total",1.00,g
+5d3ae6823711cf27f6a3bf0c,vegetables,"Kale, raw",11233,Water,89.63,g
+5d3ae6823711cf27f6a3bf0d,vegetables,"Kale, raw",11233,Energy,35,kcal
+5d3ae6823711cf27f6a3bf0e,vegetables,"Kale, raw",11233,Protein,2.92,g
+5d3ae6823711cf27f6a3bf0f,vegetables,"Kale, raw",11233,Total lipid (fat),1.49,g
+5d3ae6823711cf27f6a3bf10,vegetables,"Kale, raw",11233,"Carbohydrate, by difference",4.42,g
+5d3ae6823711cf27f6a3bf11,vegetables,"Kale, raw",11233,"Fiber, total dietary",4.1,g
+5d3ae6823711cf27f6a3bf12,vegetables,"Kale, raw",11233,"Sugars, total",0.99,g
+5d3ae6823711cf27f6a3bf13,vegetables,"Artichokes, (globe or french), raw",11007,Water,84.94,g
+5d3ae6823711cf27f6a3bf14,vegetables,"Artichokes, (globe or french), raw",11007,Energy,47,kcal
+5d3ae6823711cf27f6a3bf15,vegetables,"Artichokes, (globe or french), raw",11007,Protein,3.27,g
+5d3ae6823711cf27f6a3bf16,vegetables,"Artichokes, (globe or french), raw",11007,Total lipid (fat),0.15,g
+5d3ae6823711cf27f6a3bf17,vegetables,"Artichokes, (globe or french), raw",11007,"Carbohydrate, by difference",10.51,g
+5d3ae6823711cf27f6a3bf18,vegetables,"Artichokes, (globe or french), raw",11007,"Fiber, total dietary",5.4,g
+5d3ae6823711cf27f6a3bf19,vegetables,"Artichokes, (globe or french), raw",11007,"Sugars, total",0.99,g
+5d3ae6823711cf27f6a3bf1a,grains,"Bagels, whole grain white",28319,Water,34.52,g
+5d3ae6823711cf27f6a3bf1b,grains,"Bagels, whole grain white",28319,Energy,255,kcal
+5d3ae6823711cf27f6a3bf1c,grains,"Bagels, whole grain white",28319,Protein,9.30,g
+5d3ae6823711cf27f6a3bf1d,grains,"Bagels, whole grain white",28319,Total lipid (fat),0.00,g
+5d3ae6823711cf27f6a3bf1e,grains,"Bagels, whole grain white",28319,"Carbohydrate, by difference",54.52,g
+5d3ae6823711cf27f6a3bf1f,grains,"Bagels, whole grain white",28319,"Fiber, total dietary",4.7,g
+5d3ae6823711cf27f6a3bf20,grains,"Bagels, whole grain white",28319,"Sugars, total",9.30,g
+5d3ae6823711cf27f6a3bf21,grains,Rye grain,20062,Water,10.60,g
+5d3ae6823711cf27f6a3bf22,grains,Rye grain,20062,Energy,338,kcal
+5d3ae6823711cf27f6a3bf23,grains,Rye grain,20062,Protein,10.34,g
+5d3ae6823711cf27f6a3bf24,grains,Rye grain,20062,Total lipid (fat),1.63,g
+5d3ae6823711cf27f6a3bf25,grains,Rye grain,20062,"Carbohydrate, by difference",75.86,g
+5d3ae6823711cf27f6a3bf26,grains,Rye grain,20062,"Fiber, total dietary",15.1,g
+5d3ae6823711cf27f6a3bf27,grains,Rye grain,20062,"Sugars, total",0.98,g
+5d3ae6823711cf27f6a3bf28,grains,"Corn grain, yellow",20014,Water,10.37,g
+5d3ae6823711cf27f6a3bf29,grains,"Corn grain, yellow",20014,Energy,365,kcal
+5d3ae6823711cf27f6a3bf2a,grains,"Corn grain, yellow",20014,Protein,9.42,g
+5d3ae6823711cf27f6a3bf2b,grains,"Corn grain, yellow",20014,Total lipid (fat),4.74,g
+5d3ae6823711cf27f6a3bf2c,grains,"Corn grain, yellow",20014,"Carbohydrate, by difference",74.26,g
+5d3ae6823711cf27f6a3bf2d,grains,"Corn grain, yellow",20014,"Fiber, total dietary",7.3,g
+5d3ae6823711cf27f6a3bf2e,grains,"Corn grain, yellow",20014,"Sugars, total",0.64,g
+5d3ae6823711cf27f6a3bf2f,grains,"Corn flour, whole-grain, yellow",20016,Water,10.91,g
+5d3ae6823711cf27f6a3bf30,grains,"Corn flour, whole-grain, yellow",20016,Energy,361,kcal
+5d3ae6823711cf27f6a3bf31,grains,"Corn flour, whole-grain, yellow",20016,Protein,6.93,g
+5d3ae6823711cf27f6a3bf32,grains,"Corn flour, whole-grain, yellow",20016,Total lipid (fat),3.86,g
+5d3ae6823711cf27f6a3bf33,grains,"Corn flour, whole-grain, yellow",20016,"Carbohydrate, by difference",76.85,g
+5d3ae6823711cf27f6a3bf34,grains,"Corn flour, whole-grain, yellow",20016,"Fiber, total dietary",7.3,g
+5d3ae6823711cf27f6a3bf35,grains,"Corn flour, whole-grain, yellow",20016,"Sugars, total",0.64,g
+5d3ae6823711cf27f6a3bf36,grains,"Rice, white, long-grain, regular, raw, enriched",20044,Water,11.62,g
+5d3ae6823711cf27f6a3bf37,grains,"Rice, white, long-grain, regular, raw, enriched",20044,Energy,365,kcal
+5d3ae6823711cf27f6a3bf38,grains,"Rice, white, long-grain, regular, raw, enriched",20044,Protein,7.13,g
+5d3ae6823711cf27f6a3bf39,grains,"Rice, white, long-grain, regular, raw, enriched",20044,Total lipid (fat),0.66,g
+5d3ae6823711cf27f6a3bf3a,grains,"Rice, white, long-grain, regular, raw, enriched",20044,"Carbohydrate, by difference",79.95,g
+5d3ae6823711cf27f6a3bf3b,grains,"Rice, white, long-grain, regular, raw, enriched",20044,"Fiber, total dietary",1.3,g
+5d3ae6823711cf27f6a3bf3c,grains,"Rice, white, long-grain, regular, raw, enriched",20044,"Sugars, total",0.12,g
+5d3ae6823711cf27f6a3bf3d,grains,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",20135,Water,8.85,g
+5d3ae6823711cf27f6a3bf3e,grains,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",20135,Energy,362,kcal
+5d3ae6823711cf27f6a3bf3f,grains,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",20135,Protein,13.51,g
+5d3ae6823711cf27f6a3bf40,grains,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",20135,Total lipid (fat),2.68,g
+5d3ae6823711cf27f6a3bf41,grains,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",20135,"Carbohydrate, by difference",73.10,g
+5d3ae6823711cf27f6a3bf42,grains,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",20135,"Fiber, total dietary",10.1,g
+5d3ae6823711cf27f6a3bf43,grains,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",20135,"Sugars, total",2.60,g
+5d3ae6823711cf27f6a3bf44,grains,"Wheat flour, whole-grain, soft wheat",20649,Water,12.42,g
+5d3ae6823711cf27f6a3bf45,grains,"Wheat flour, whole-grain, soft wheat",20649,Energy,332,kcal
+5d3ae6823711cf27f6a3bf46,grains,"Wheat flour, whole-grain, soft wheat",20649,Protein,9.61,g
+5d3ae6823711cf27f6a3bf47,grains,"Wheat flour, whole-grain, soft wheat",20649,Total lipid (fat),1.95,g
+5d3ae6823711cf27f6a3bf48,grains,"Wheat flour, whole-grain, soft wheat",20649,"Carbohydrate, by difference",74.48,g
+5d3ae6823711cf27f6a3bf49,grains,"Wheat flour, whole-grain, soft wheat",20649,"Fiber, total dietary",13.1,g
+5d3ae6823711cf27f6a3bf4a,grains,"Wheat flour, whole-grain, soft wheat",20649,"Sugars, total",1.02,g
+5d3ae6823711cf27f6a3bf4b,grains,"Pasta, gluten-free, corn, dry",20091,Water,10.00,g
+5d3ae6823711cf27f6a3bf4c,grains,"Pasta, gluten-free, corn, dry",20091,Energy,357,kcal
+5d3ae6823711cf27f6a3bf4d,grains,"Pasta, gluten-free, corn, dry",20091,Protein,7.46,g
+5d3ae6823711cf27f6a3bf4e,grains,"Pasta, gluten-free, corn, dry",20091,Total lipid (fat),2.08,g
+5d3ae6823711cf27f6a3bf4f,grains,"Pasta, gluten-free, corn, dry",20091,"Carbohydrate, by difference",79.26,g
+5d3ae6823711cf27f6a3bf50,grains,"Pasta, gluten-free, corn, dry",20091,"Fiber, total dietary",11.0,g
+5d3ae6823711cf27f6a3bf51,grains,"Pasta, gluten-free, corn, dry",20091,"Calcium, Ca",4,mg
+5d3ae6823711cf27f6a3bf52,grains,"Pasta, gluten-free, corn and rice flour, cooked",20657,Water,57.67,g
+5d3ae6823711cf27f6a3bf53,grains,"Pasta, gluten-free, corn and rice flour, cooked",20657,Energy,179,kcal
+5d3ae6823711cf27f6a3bf54,grains,"Pasta, gluten-free, corn and rice flour, cooked",20657,Protein,3.20,g
+5d3ae6823711cf27f6a3bf55,grains,"Pasta, gluten-free, corn and rice flour, cooked",20657,Total lipid (fat),1.00,g
+5d3ae6823711cf27f6a3bf56,grains,"Pasta, gluten-free, corn and rice flour, cooked",20657,"Carbohydrate, by difference",38.05,g
+5d3ae6823711cf27f6a3bf57,grains,"Pasta, gluten-free, corn and rice flour, cooked",20657,"Fiber, total dietary",1.4,g
+5d3ae6823711cf27f6a3bf58,grains,"Pasta, gluten-free, corn and rice flour, cooked",20657,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3bf59,grains,"Pasta, dry, enriched",20120,Water,9.90,g
+5d3ae6823711cf27f6a3bf5a,grains,"Pasta, dry, enriched",20120,Energy,371,kcal
+5d3ae6823711cf27f6a3bf5b,grains,"Pasta, dry, enriched",20120,Protein,13.04,g
+5d3ae6823711cf27f6a3bf5c,grains,"Pasta, dry, enriched",20120,Total lipid (fat),1.51,g
+5d3ae6823711cf27f6a3bf5d,grains,"Pasta, dry, enriched",20120,"Carbohydrate, by difference",74.67,g
+5d3ae6823711cf27f6a3bf5e,grains,"Pasta, dry, enriched",20120,"Fiber, total dietary",3.2,g
+5d3ae6823711cf27f6a3bf5f,grains,"Pasta, dry, enriched",20120,"Sugars, total",2.67,g
+5d3ae6823711cf27f6a3bf60,grains,"Nuts, pine nuts, dried",12147,Water,2.28,g
+5d3ae6823711cf27f6a3bf61,grains,"Nuts, pine nuts, dried",12147,Energy,673,kcal
+5d3ae6823711cf27f6a3bf62,grains,"Nuts, pine nuts, dried",12147,Protein,13.69,g
+5d3ae6823711cf27f6a3bf63,grains,"Nuts, pine nuts, dried",12147,Total lipid (fat),68.37,g
+5d3ae6823711cf27f6a3bf64,grains,"Nuts, pine nuts, dried",12147,"Carbohydrate, by difference",13.08,g
+5d3ae6823711cf27f6a3bf65,grains,"Nuts, pine nuts, dried",12147,"Fiber, total dietary",3.7,g
+5d3ae6823711cf27f6a3bf66,grains,"Nuts, pine nuts, dried",12147,"Sugars, total",3.59,g
+5d3ae6823711cf27f6a3bf67,grains,"Nuts, cashew nuts, oil roasted, with salt added",12586,Water,2.34,g
+5d3ae6823711cf27f6a3bf68,grains,"Nuts, cashew nuts, oil roasted, with salt added",12586,Energy,581,kcal
+5d3ae6823711cf27f6a3bf69,grains,"Nuts, cashew nuts, oil roasted, with salt added",12586,Protein,16.84,g
+5d3ae6823711cf27f6a3bf6a,grains,"Nuts, cashew nuts, oil roasted, with salt added",12586,Total lipid (fat),47.77,g
+5d3ae6823711cf27f6a3bf6b,grains,"Nuts, cashew nuts, oil roasted, with salt added",12586,"Carbohydrate, by difference",30.16,g
+5d3ae6823711cf27f6a3bf6c,grains,"Nuts, cashew nuts, oil roasted, with salt added",12586,"Fiber, total dietary",3.3,g
+5d3ae6823711cf27f6a3bf6d,grains,"Nuts, cashew nuts, oil roasted, with salt added",12586,"Sugars, total",5.01,g
+5d3ae6823711cf27f6a3bf6e,grains,"Nuts, coconut meat, raw",12104,Water,46.99,g
+5d3ae6823711cf27f6a3bf6f,grains,"Nuts, coconut meat, raw",12104,Energy,354,kcal
+5d3ae6823711cf27f6a3bf70,grains,"Nuts, coconut meat, raw",12104,Protein,3.33,g
+5d3ae6823711cf27f6a3bf71,grains,"Nuts, coconut meat, raw",12104,Total lipid (fat),33.49,g
+5d3ae6823711cf27f6a3bf72,grains,"Nuts, coconut meat, raw",12104,"Carbohydrate, by difference",15.23,g
+5d3ae6823711cf27f6a3bf73,grains,"Nuts, coconut meat, raw",12104,"Fiber, total dietary",9.0,g
+5d3ae6823711cf27f6a3bf74,grains,"Nuts, coconut meat, raw",12104,"Sugars, total",6.23,g
+5d3ae6823711cf27f6a3bf75,grains,"Nuts, walnuts, english",12155,Water,4.07,g
+5d3ae6823711cf27f6a3bf76,grains,"Nuts, walnuts, english",12155,Energy,654,kcal
+5d3ae6823711cf27f6a3bf77,grains,"Nuts, walnuts, english",12155,Protein,15.23,g
+5d3ae6823711cf27f6a3bf78,grains,"Nuts, walnuts, english",12155,Total lipid (fat),65.21,g
+5d3ae6823711cf27f6a3bf79,grains,"Nuts, walnuts, english",12155,"Carbohydrate, by difference",13.71,g
+5d3ae6823711cf27f6a3bf7a,grains,"Nuts, walnuts, english",12155,"Fiber, total dietary",6.7,g
+5d3ae6823711cf27f6a3bf7b,grains,"Nuts, walnuts, english",12155,"Sugars, total",2.61,g
+5d3ae6823711cf27f6a3bf7c,grains,"Nuts, almonds, dry roasted, without salt added",12063,Water,2.41,g
+5d3ae6823711cf27f6a3bf7d,grains,"Nuts, almonds, dry roasted, without salt added",12063,Energy,598,kcal
+5d3ae6823711cf27f6a3bf7e,grains,"Nuts, almonds, dry roasted, without salt added",12063,Protein,20.96,g
+5d3ae6823711cf27f6a3bf7f,grains,"Nuts, almonds, dry roasted, without salt added",12063,Total lipid (fat),52.54,g
+5d3ae6823711cf27f6a3bf80,grains,"Nuts, almonds, dry roasted, without salt added",12063,"Carbohydrate, by difference",21.01,g
+5d3ae6823711cf27f6a3bf81,grains,"Nuts, almonds, dry roasted, without salt added",12063,"Fiber, total dietary",10.9,g
+5d3ae6823711cf27f6a3bf82,grains,"Nuts, almonds, dry roasted, without salt added",12063,"Sugars, total",4.86,g
+5d3ae6823711cf27f6a3bf83,grains,"Sorghum flour, whole-grain",20648,Water,10.26,g
+5d3ae6823711cf27f6a3bf84,grains,"Sorghum flour, whole-grain",20648,Energy,359,kcal
+5d3ae6823711cf27f6a3bf85,grains,"Sorghum flour, whole-grain",20648,Protein,8.43,g
+5d3ae6823711cf27f6a3bf86,grains,"Sorghum flour, whole-grain",20648,Total lipid (fat),3.34,g
+5d3ae6823711cf27f6a3bf87,grains,"Sorghum flour, whole-grain",20648,"Carbohydrate, by difference",76.64,g
+5d3ae6823711cf27f6a3bf88,grains,"Sorghum flour, whole-grain",20648,"Fiber, total dietary",6.6,g
+5d3ae6823711cf27f6a3bf89,grains,"Sorghum flour, whole-grain",20648,"Sugars, total",1.94,g
+5d3ae6823711cf27f6a3bf8a,grains,"Biscuits, mixed grain, refrigerated dough",18017,Water,37.80,g
+5d3ae6823711cf27f6a3bf8b,grains,"Biscuits, mixed grain, refrigerated dough",18017,Energy,263,kcal
+5d3ae6823711cf27f6a3bf8c,grains,"Biscuits, mixed grain, refrigerated dough",18017,Protein,6.10,g
+5d3ae6823711cf27f6a3bf8d,grains,"Biscuits, mixed grain, refrigerated dough",18017,Total lipid (fat),5.60,g
+5d3ae6823711cf27f6a3bf8e,grains,"Biscuits, mixed grain, refrigerated dough",18017,"Carbohydrate, by difference",47.40,g
+5d3ae6823711cf27f6a3bf8f,grains,"Biscuits, mixed grain, refrigerated dough",18017,"Calcium, Ca",17,mg
+5d3ae6823711cf27f6a3bf90,grains,"Biscuits, mixed grain, refrigerated dough",18017,"Iron, Fe",2.75,mg
+5d3ae6823711cf27f6a3bf91,grains,"Muffins, English, mixed-grain (includes granola)",18260,Water,40.20,g
+5d3ae6823711cf27f6a3bf92,grains,"Muffins, English, mixed-grain (includes granola)",18260,Energy,235,kcal
+5d3ae6823711cf27f6a3bf93,grains,"Muffins, English, mixed-grain (includes granola)",18260,Protein,9.10,g
+5d3ae6823711cf27f6a3bf94,grains,"Muffins, English, mixed-grain (includes granola)",18260,Total lipid (fat),1.80,g
+5d3ae6823711cf27f6a3bf95,grains,"Muffins, English, mixed-grain (includes granola)",18260,"Carbohydrate, by difference",46.30,g
+5d3ae6823711cf27f6a3bf96,grains,"Muffins, English, mixed-grain (includes granola)",18260,"Fiber, total dietary",2.8,g
+5d3ae6823711cf27f6a3bf97,grains,"Muffins, English, mixed-grain (includes granola)",18260,"Sugars, total",0.81,g
+5d3ae6823711cf27f6a3bf98,grains,"Rolls, hamburger or hotdog, mixed-grain",18351,Water,38.00,g
+5d3ae6823711cf27f6a3bf99,grains,"Rolls, hamburger or hotdog, mixed-grain",18351,Energy,263,kcal
+5d3ae6823711cf27f6a3bf9a,grains,"Rolls, hamburger or hotdog, mixed-grain",18351,Protein,9.60,g
+5d3ae6823711cf27f6a3bf9b,grains,"Rolls, hamburger or hotdog, mixed-grain",18351,Total lipid (fat),6.00,g
+5d3ae6823711cf27f6a3bf9c,grains,"Rolls, hamburger or hotdog, mixed-grain",18351,"Carbohydrate, by difference",44.60,g
+5d3ae6823711cf27f6a3bf9d,grains,"Rolls, hamburger or hotdog, mixed-grain",18351,"Fiber, total dietary",3.8,g
+5d3ae6823711cf27f6a3bf9e,grains,"Rolls, hamburger or hotdog, mixed-grain",18351,"Sugars, total",6.25,g
+5d3ae6823711cf27f6a3bf9f,grains,"School Lunch, chicken nuggets, whole grain breaded",21611,Water,46.53,g
+5d3ae6823711cf27f6a3bfa0,grains,"School Lunch, chicken nuggets, whole grain breaded",21611,Energy,270,kcal
+5d3ae6823711cf27f6a3bfa1,grains,"School Lunch, chicken nuggets, whole grain breaded",21611,Protein,15.67,g
+5d3ae6823711cf27f6a3bfa2,grains,"School Lunch, chicken nuggets, whole grain breaded",21611,Total lipid (fat),12.90,g
+5d3ae6823711cf27f6a3bfa3,grains,"School Lunch, chicken nuggets, whole grain breaded",21611,"Carbohydrate, by difference",22.86,g
+5d3ae6823711cf27f6a3bfa4,grains,"School Lunch, chicken nuggets, whole grain breaded",21611,"Fiber, total dietary",2.2,g
+5d3ae6823711cf27f6a3bfa5,grains,"School Lunch, chicken nuggets, whole grain breaded",21611,"Sugars, total",0.49,g
+5d3ae6823711cf27f6a3bfa6,grains,"Cereals ready-to-eat, POST, GREAT GRAINS, Raisin, Date & Pecan",42265,Water,8.50,g
+5d3ae6823711cf27f6a3bfa7,grains,"Cereals ready-to-eat, POST, GREAT GRAINS, Raisin, Date & Pecan",42265,Energy,378,kcal
+5d3ae6823711cf27f6a3bfa8,grains,"Cereals ready-to-eat, POST, GREAT GRAINS, Raisin, Date & Pecan",42265,Protein,7.90,g
+5d3ae6823711cf27f6a3bfa9,grains,"Cereals ready-to-eat, POST, GREAT GRAINS, Raisin, Date & Pecan",42265,Total lipid (fat),7.10,g
+5d3ae6823711cf27f6a3bfaa,grains,"Cereals ready-to-eat, POST, GREAT GRAINS, Raisin, Date & Pecan",42265,"Carbohydrate, by difference",74.30,g
+5d3ae6823711cf27f6a3bfab,grains,"Cereals ready-to-eat, POST, GREAT GRAINS, Raisin, Date & Pecan",42265,"Fiber, total dietary",9.3,g
+5d3ae6823711cf27f6a3bfac,grains,"Cereals ready-to-eat, POST, GREAT GRAINS, Raisin, Date & Pecan",42265,"Sugars, total",24.10,g
+5d3ae6823711cf27f6a3bfad,grains,"Cereals ready-to-eat, POST, GREAT GRAINS Crunchy Pecan Cereal",42261,Water,5.20,g
+5d3ae6823711cf27f6a3bfae,grains,"Cereals ready-to-eat, POST, GREAT GRAINS Crunchy Pecan Cereal",42261,Energy,403,kcal
+5d3ae6823711cf27f6a3bfaf,grains,"Cereals ready-to-eat, POST, GREAT GRAINS Crunchy Pecan Cereal",42261,Protein,9.00,g
+5d3ae6823711cf27f6a3bfb0,grains,"Cereals ready-to-eat, POST, GREAT GRAINS Crunchy Pecan Cereal",42261,Total lipid (fat),10.50,g
+5d3ae6823711cf27f6a3bfb1,grains,"Cereals ready-to-eat, POST, GREAT GRAINS Crunchy Pecan Cereal",42261,"Carbohydrate, by difference",73.00,g
+5d3ae6823711cf27f6a3bfb2,grains,"Cereals ready-to-eat, POST, GREAT GRAINS Crunchy Pecan Cereal",42261,"Fiber, total dietary",9.7,g
+5d3ae6823711cf27f6a3bfb3,grains,"Cereals ready-to-eat, POST, GREAT GRAINS Crunchy Pecan Cereal",42261,"Sugars, total",15.40,g
+5d3ae6823711cf27f6a3bfb4,grains,"Crackers, whole grain, sandwich-type, with peanut butter filling",28326,Water,7.32,g
+5d3ae6823711cf27f6a3bfb5,grains,"Crackers, whole grain, sandwich-type, with peanut butter filling",28326,Energy,465,kcal
+5d3ae6823711cf27f6a3bfb6,grains,"Crackers, whole grain, sandwich-type, with peanut butter filling",28326,Protein,14.12,g
+5d3ae6823711cf27f6a3bfb7,grains,"Crackers, whole grain, sandwich-type, with peanut butter filling",28326,Total lipid (fat),21.18,g
+5d3ae6823711cf27f6a3bfb8,grains,"Crackers, whole grain, sandwich-type, with peanut butter filling",28326,"Carbohydrate, by difference",54.59,g
+5d3ae6823711cf27f6a3bfb9,grains,"Crackers, whole grain, sandwich-type, with peanut butter filling",28326,"Fiber, total dietary",9.4,g
+5d3ae6823711cf27f6a3bfba,grains,"Crackers, whole grain, sandwich-type, with peanut butter filling",28326,"Sugars, total",9.41,g
+5d3ae6823711cf27f6a3bfbb,grains,"Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",20036,Water,11.80,g
+5d3ae6823711cf27f6a3bfbc,grains,"Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",20036,Energy,367,kcal
+5d3ae6823711cf27f6a3bfbd,grains,"Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",20036,Protein,7.54,g
+5d3ae6823711cf27f6a3bfbe,grains,"Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",20036,Total lipid (fat),3.20,g
+5d3ae6823711cf27f6a3bfbf,grains,"Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",20036,"Carbohydrate, by difference",76.25,g
+5d3ae6823711cf27f6a3bfc0,grains,"Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",20036,"Fiber, total dietary",3.6,g
+5d3ae6823711cf27f6a3bfc1,grains,"Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",20036,"Sugars, total",0.66,g
+5d3ae6823711cf27f6a3bfc2,dairy,"Cheese, blue",01004,Water,42.41,g
+5d3ae6823711cf27f6a3bfc3,dairy,"Cheese, blue",01004,Energy,353,kcal
+5d3ae6823711cf27f6a3bfc4,dairy,"Cheese, blue",01004,Protein,21.40,g
+5d3ae6823711cf27f6a3bfc5,dairy,"Cheese, blue",01004,Total lipid (fat),28.74,g
+5d3ae6823711cf27f6a3bfc6,dairy,"Cheese, blue",01004,"Carbohydrate, by difference",2.34,g
+5d3ae6823711cf27f6a3bfc7,dairy,"Cheese, blue",01004,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3bfc8,dairy,"Cheese, blue",01004,"Sugars, total",0.50,g
+5d3ae6823711cf27f6a3bfc9,dairy,"Cheese, swiss",01040,Water,37.63,g
+5d3ae6823711cf27f6a3bfca,dairy,"Cheese, swiss",01040,Energy,393,kcal
+5d3ae6823711cf27f6a3bfcb,dairy,"Cheese, swiss",01040,Protein,26.96,g
+5d3ae6823711cf27f6a3bfcc,dairy,"Cheese, swiss",01040,Total lipid (fat),30.99,g
+5d3ae6823711cf27f6a3bfcd,dairy,"Cheese, swiss",01040,"Carbohydrate, by difference",1.44,g
+5d3ae6823711cf27f6a3bfce,dairy,"Cheese, swiss",01040,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3bfcf,dairy,"Cheese, swiss",01040,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3bfd0,dairy,"Egg, whole, cooked, scrambled",01132,Water,76.40,g
+5d3ae6823711cf27f6a3bfd1,dairy,"Egg, whole, cooked, scrambled",01132,Energy,149,kcal
+5d3ae6823711cf27f6a3bfd2,dairy,"Egg, whole, cooked, scrambled",01132,Protein,9.99,g
+5d3ae6823711cf27f6a3bfd3,dairy,"Egg, whole, cooked, scrambled",01132,Total lipid (fat),10.98,g
+5d3ae6823711cf27f6a3bfd4,dairy,"Egg, whole, cooked, scrambled",01132,"Carbohydrate, by difference",1.61,g
+5d3ae6823711cf27f6a3bfd5,dairy,"Egg, whole, cooked, scrambled",01132,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3bfd6,dairy,"Egg, whole, cooked, scrambled",01132,"Sugars, total",1.39,g
+5d3ae6823711cf27f6a3bfd7,dairy,"Butter, salted",01001,Water,16.17,g
+5d3ae6823711cf27f6a3bfd8,dairy,"Butter, salted",01001,Energy,717,kcal
+5d3ae6823711cf27f6a3bfd9,dairy,"Butter, salted",01001,Protein,0.85,g
+5d3ae6823711cf27f6a3bfda,dairy,"Butter, salted",01001,Total lipid (fat),81.11,g
+5d3ae6823711cf27f6a3bfdb,dairy,"Butter, salted",01001,"Carbohydrate, by difference",0.06,g
+5d3ae6823711cf27f6a3bfdc,dairy,"Butter, salted",01001,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3bfdd,dairy,"Butter, salted",01001,"Sugars, total",0.06,g
+5d3ae6823711cf27f6a3bfde,dairy,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",01009,Water,36.75,g
+5d3ae6823711cf27f6a3bfdf,dairy,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",01009,Energy,403,kcal
+5d3ae6823711cf27f6a3bfe0,dairy,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",01009,Protein,22.87,g
+5d3ae6823711cf27f6a3bfe1,dairy,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",01009,Total lipid (fat),33.31,g
+5d3ae6823711cf27f6a3bfe2,dairy,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",01009,"Carbohydrate, by difference",3.37,g
+5d3ae6823711cf27f6a3bfe3,dairy,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",01009,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3bfe4,dairy,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",01009,"Sugars, total",0.48,g
+5d3ae6823711cf27f6a3bfe5,dairy,"Cream, fluid, heavy whipping",01053,Water,57.71,g
+5d3ae6823711cf27f6a3bfe6,dairy,"Cream, fluid, heavy whipping",01053,Energy,340,kcal
+5d3ae6823711cf27f6a3bfe7,dairy,"Cream, fluid, heavy whipping",01053,Protein,2.84,g
+5d3ae6823711cf27f6a3bfe8,dairy,"Cream, fluid, heavy whipping",01053,Total lipid (fat),36.08,g
+5d3ae6823711cf27f6a3bfe9,dairy,"Cream, fluid, heavy whipping",01053,"Carbohydrate, by difference",2.84,g
+5d3ae6823711cf27f6a3bfea,dairy,"Cream, fluid, heavy whipping",01053,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3bfeb,dairy,"Cream, fluid, heavy whipping",01053,"Sugars, total",2.92,g
+5d3ae6823711cf27f6a3bfec,dairy,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",01082,Water,89.92,g
+5d3ae6823711cf27f6a3bfed,dairy,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",01082,Energy,42,kcal
+5d3ae6823711cf27f6a3bfee,dairy,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",01082,Protein,3.37,g
+5d3ae6823711cf27f6a3bfef,dairy,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",01082,Total lipid (fat),0.97,g
+5d3ae6823711cf27f6a3bff0,dairy,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",01082,"Carbohydrate, by difference",4.99,g
+5d3ae6823711cf27f6a3bff1,dairy,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",01082,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3bff2,dairy,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",01082,"Sugars, total",5.20,g
+5d3ae6823711cf27f6a3bff3,dairy,"Yogurt, plain, low fat",01117,Water,85.07,g
+5d3ae6823711cf27f6a3bff4,dairy,"Yogurt, plain, low fat",01117,Energy,63,kcal
+5d3ae6823711cf27f6a3bff5,dairy,"Yogurt, plain, low fat",01117,Protein,5.25,g
+5d3ae6823711cf27f6a3bff6,dairy,"Yogurt, plain, low fat",01117,Total lipid (fat),1.55,g
+5d3ae6823711cf27f6a3bff7,dairy,"Yogurt, plain, low fat",01117,"Carbohydrate, by difference",7.04,g
+5d3ae6823711cf27f6a3bff8,dairy,"Yogurt, plain, low fat",01117,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3bff9,dairy,"Yogurt, plain, low fat",01117,"Sugars, total",7.04,g
+5d3ae6823711cf27f6a3bffa,dairy,"Yogurt, Greek, plain, lowfat",01287,Water,83.56,g
+5d3ae6823711cf27f6a3bffb,dairy,"Yogurt, Greek, plain, lowfat",01287,Energy,73,kcal
+5d3ae6823711cf27f6a3bffc,dairy,"Yogurt, Greek, plain, lowfat",01287,Protein,9.95,g
+5d3ae6823711cf27f6a3bffd,dairy,"Yogurt, Greek, plain, lowfat",01287,Total lipid (fat),1.92,g
+5d3ae6823711cf27f6a3bffe,dairy,"Yogurt, Greek, plain, lowfat",01287,"Carbohydrate, by difference",3.94,g
+5d3ae6823711cf27f6a3bfff,dairy,"Yogurt, Greek, plain, lowfat",01287,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c000,dairy,"Yogurt, Greek, plain, lowfat",01287,"Sugars, total",3.56,g
+5d3ae6823711cf27f6a3c001,dairy,"Butter, Clarified butter (ghee)",01323,Water,0.50,g
+5d3ae6823711cf27f6a3c002,dairy,"Butter, Clarified butter (ghee)",01323,Energy,900,kcal
+5d3ae6823711cf27f6a3c003,dairy,"Butter, Clarified butter (ghee)",01323,Protein,0.00,g
+5d3ae6823711cf27f6a3c004,dairy,"Butter, Clarified butter (ghee)",01323,Total lipid (fat),100.00,g
+5d3ae6823711cf27f6a3c005,dairy,"Butter, Clarified butter (ghee)",01323,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c006,dairy,"Butter, Clarified butter (ghee)",01323,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c007,dairy,"Butter, Clarified butter (ghee)",01323,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c008,dairy,"Cheese, white, queso blanco",01229,Water,48.70,g
+5d3ae6823711cf27f6a3c009,dairy,"Cheese, white, queso blanco",01229,Energy,310,kcal
+5d3ae6823711cf27f6a3c00a,dairy,"Cheese, white, queso blanco",01229,Protein,20.38,g
+5d3ae6823711cf27f6a3c00b,dairy,"Cheese, white, queso blanco",01229,Total lipid (fat),24.31,g
+5d3ae6823711cf27f6a3c00c,dairy,"Cheese, white, queso blanco",01229,"Carbohydrate, by difference",2.53,g
+5d3ae6823711cf27f6a3c00d,dairy,"Cheese, white, queso blanco",01229,"Sugars, total",1.76,g
+5d3ae6823711cf27f6a3c00e,dairy,"Cheese, white, queso blanco",01229,"Calcium, Ca",690,mg
+5d3ae6823711cf27f6a3c00f,dairy,"Butter, without salt",01145,Water,16.17,g
+5d3ae6823711cf27f6a3c010,dairy,"Butter, without salt",01145,Energy,717,kcal
+5d3ae6823711cf27f6a3c011,dairy,"Butter, without salt",01145,Protein,0.85,g
+5d3ae6823711cf27f6a3c012,dairy,"Butter, without salt",01145,Total lipid (fat),81.11,g
+5d3ae6823711cf27f6a3c013,dairy,"Butter, without salt",01145,"Carbohydrate, by difference",0.06,g
+5d3ae6823711cf27f6a3c014,dairy,"Butter, without salt",01145,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c015,dairy,"Butter, without salt",01145,"Sugars, total",0.06,g
+5d3ae6823711cf27f6a3c016,dairy,"Cheese, goat, soft type",01159,Water,60.75,g
+5d3ae6823711cf27f6a3c017,dairy,"Cheese, goat, soft type",01159,Energy,264,kcal
+5d3ae6823711cf27f6a3c018,dairy,"Cheese, goat, soft type",01159,Protein,18.52,g
+5d3ae6823711cf27f6a3c019,dairy,"Cheese, goat, soft type",01159,Total lipid (fat),21.08,g
+5d3ae6823711cf27f6a3c01a,dairy,"Cheese, goat, soft type",01159,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c01b,dairy,"Cheese, goat, soft type",01159,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c01c,dairy,"Cheese, goat, soft type",01159,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c01d,dairy,Eggnog,01057,Water,82.54,g
+5d3ae6823711cf27f6a3c01e,dairy,Eggnog,01057,Energy,88,kcal
+5d3ae6823711cf27f6a3c01f,dairy,Eggnog,01057,Protein,4.55,g
+5d3ae6823711cf27f6a3c020,dairy,Eggnog,01057,Total lipid (fat),4.19,g
+5d3ae6823711cf27f6a3c021,dairy,Eggnog,01057,"Carbohydrate, by difference",8.05,g
+5d3ae6823711cf27f6a3c022,dairy,Eggnog,01057,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c023,dairy,Eggnog,01057,"Sugars, total",8.05,g
+5d3ae6823711cf27f6a3c024,dairy,"Milk, whole, 3.25% milkfat, with added vitamin D",01077,Water,88.13,g
+5d3ae6823711cf27f6a3c025,dairy,"Milk, whole, 3.25% milkfat, with added vitamin D",01077,Energy,61,kcal
+5d3ae6823711cf27f6a3c026,dairy,"Milk, whole, 3.25% milkfat, with added vitamin D",01077,Protein,3.15,g
+5d3ae6823711cf27f6a3c027,dairy,"Milk, whole, 3.25% milkfat, with added vitamin D",01077,Total lipid (fat),3.25,g
+5d3ae6823711cf27f6a3c028,dairy,"Milk, whole, 3.25% milkfat, with added vitamin D",01077,"Carbohydrate, by difference",4.80,g
+5d3ae6823711cf27f6a3c029,dairy,"Milk, whole, 3.25% milkfat, with added vitamin D",01077,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c02a,dairy,"Milk, whole, 3.25% milkfat, with added vitamin D",01077,"Sugars, total",5.05,g
+5d3ae6823711cf27f6a3c02b,dairy,"Cheese, parmesan, grated",01032,Water,22.65,g
+5d3ae6823711cf27f6a3c02c,dairy,"Cheese, parmesan, grated",01032,Energy,420,kcal
+5d3ae6823711cf27f6a3c02d,dairy,"Cheese, parmesan, grated",01032,Protein,28.42,g
+5d3ae6823711cf27f6a3c02e,dairy,"Cheese, parmesan, grated",01032,Total lipid (fat),27.84,g
+5d3ae6823711cf27f6a3c02f,dairy,"Cheese, parmesan, grated",01032,"Carbohydrate, by difference",13.91,g
+5d3ae6823711cf27f6a3c030,dairy,"Cheese, parmesan, grated",01032,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c031,dairy,"Cheese, parmesan, grated",01032,"Sugars, total",0.07,g
+5d3ae6823711cf27f6a3c032,dairy,"Cheese, cottage, creamed, large or small curd",01012,Water,79.79,g
+5d3ae6823711cf27f6a3c033,dairy,"Cheese, cottage, creamed, large or small curd",01012,Energy,98,kcal
+5d3ae6823711cf27f6a3c034,dairy,"Cheese, cottage, creamed, large or small curd",01012,Protein,11.12,g
+5d3ae6823711cf27f6a3c035,dairy,"Cheese, cottage, creamed, large or small curd",01012,Total lipid (fat),4.30,g
+5d3ae6823711cf27f6a3c036,dairy,"Cheese, cottage, creamed, large or small curd",01012,"Carbohydrate, by difference",3.38,g
+5d3ae6823711cf27f6a3c037,dairy,"Cheese, cottage, creamed, large or small curd",01012,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c038,dairy,"Cheese, cottage, creamed, large or small curd",01012,"Sugars, total",2.67,g
+5d3ae6823711cf27f6a3c039,dairy,"Cheese, cottage, lowfat, 2% milkfat",01015,Water,81.24,g
+5d3ae6823711cf27f6a3c03a,dairy,"Cheese, cottage, lowfat, 2% milkfat",01015,Energy,81,kcal
+5d3ae6823711cf27f6a3c03b,dairy,"Cheese, cottage, lowfat, 2% milkfat",01015,Protein,10.45,g
+5d3ae6823711cf27f6a3c03c,dairy,"Cheese, cottage, lowfat, 2% milkfat",01015,Total lipid (fat),2.27,g
+5d3ae6823711cf27f6a3c03d,dairy,"Cheese, cottage, lowfat, 2% milkfat",01015,"Carbohydrate, by difference",4.76,g
+5d3ae6823711cf27f6a3c03e,dairy,"Cheese, cottage, lowfat, 2% milkfat",01015,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c03f,dairy,"Cheese, cottage, lowfat, 2% milkfat",01015,"Sugars, total",4.00,g
+5d3ae6823711cf27f6a3c040,dairy,"Cheese, cream",01017,Water,52.62,g
+5d3ae6823711cf27f6a3c041,dairy,"Cheese, cream",01017,Energy,350,kcal
+5d3ae6823711cf27f6a3c042,dairy,"Cheese, cream",01017,Protein,6.15,g
+5d3ae6823711cf27f6a3c043,dairy,"Cheese, cream",01017,Total lipid (fat),34.44,g
+5d3ae6823711cf27f6a3c044,dairy,"Cheese, cream",01017,"Carbohydrate, by difference",5.52,g
+5d3ae6823711cf27f6a3c045,dairy,"Cheese, cream",01017,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c046,dairy,"Cheese, cream",01017,"Sugars, total",3.76,g
+5d3ae6823711cf27f6a3c047,dairy,"Cheese, feta",01019,Water,55.22,g
+5d3ae6823711cf27f6a3c048,dairy,"Cheese, feta",01019,Energy,265,kcal
+5d3ae6823711cf27f6a3c049,dairy,"Cheese, feta",01019,Protein,14.21,g
+5d3ae6823711cf27f6a3c04a,dairy,"Cheese, feta",01019,Total lipid (fat),21.49,g
+5d3ae6823711cf27f6a3c04b,dairy,"Cheese, feta",01019,"Carbohydrate, by difference",3.88,g
+5d3ae6823711cf27f6a3c04c,dairy,"Cheese, feta",01019,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c04d,dairy,"Cheese, feta",01019,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c04e,dairy,"Cheese, mozzarella, whole milk",01026,Water,50.01,g
+5d3ae6823711cf27f6a3c04f,dairy,"Cheese, mozzarella, whole milk",01026,Energy,299,kcal
+5d3ae6823711cf27f6a3c050,dairy,"Cheese, mozzarella, whole milk",01026,Protein,22.17,g
+5d3ae6823711cf27f6a3c051,dairy,"Cheese, mozzarella, whole milk",01026,Total lipid (fat),22.14,g
+5d3ae6823711cf27f6a3c052,dairy,"Cheese, mozzarella, whole milk",01026,"Carbohydrate, by difference",2.40,g
+5d3ae6823711cf27f6a3c053,dairy,"Cheese, mozzarella, whole milk",01026,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c054,dairy,"Cheese, mozzarella, whole milk",01026,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c055,dairy,"Cream, sour, cultured",01056,Water,73.07,g
+5d3ae6823711cf27f6a3c056,dairy,"Cream, sour, cultured",01056,Energy,198,kcal
+5d3ae6823711cf27f6a3c057,dairy,"Cream, sour, cultured",01056,Protein,2.44,g
+5d3ae6823711cf27f6a3c058,dairy,"Cream, sour, cultured",01056,Total lipid (fat),19.35,g
+5d3ae6823711cf27f6a3c059,dairy,"Cream, sour, cultured",01056,"Carbohydrate, by difference",4.63,g
+5d3ae6823711cf27f6a3c05a,dairy,"Cream, sour, cultured",01056,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c05b,dairy,"Cream, sour, cultured",01056,"Sugars, total",3.41,g
+5d3ae6823711cf27f6a3c05c,dairy,"Milk, human, mature, fluid",01107,Water,87.50,g
+5d3ae6823711cf27f6a3c05d,dairy,"Milk, human, mature, fluid",01107,Energy,70,kcal
+5d3ae6823711cf27f6a3c05e,dairy,"Milk, human, mature, fluid",01107,Protein,1.03,g
+5d3ae6823711cf27f6a3c05f,dairy,"Milk, human, mature, fluid",01107,Total lipid (fat),4.38,g
+5d3ae6823711cf27f6a3c060,dairy,"Milk, human, mature, fluid",01107,"Carbohydrate, by difference",6.89,g
+5d3ae6823711cf27f6a3c061,dairy,"Milk, human, mature, fluid",01107,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c062,dairy,"Milk, human, mature, fluid",01107,"Sugars, total",6.89,g
+5d3ae6823711cf27f6a3c063,dairy,"Cheese product, pasteurized process, American, vitamin D fortified",01252,Water,45.07,g
+5d3ae6823711cf27f6a3c064,dairy,"Cheese product, pasteurized process, American, vitamin D fortified",01252,Energy,307,kcal
+5d3ae6823711cf27f6a3c065,dairy,"Cheese product, pasteurized process, American, vitamin D fortified",01252,Protein,16.09,g
+5d3ae6823711cf27f6a3c066,dairy,"Cheese product, pasteurized process, American, vitamin D fortified",01252,Total lipid (fat),23.06,g
+5d3ae6823711cf27f6a3c067,dairy,"Cheese product, pasteurized process, American, vitamin D fortified",01252,"Carbohydrate, by difference",8.85,g
+5d3ae6823711cf27f6a3c068,dairy,"Cheese product, pasteurized process, American, vitamin D fortified",01252,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c069,dairy,"Cheese product, pasteurized process, American, vitamin D fortified",01252,"Sugars, total",6.24,g
+5d3ae6823711cf27f6a3c06a,dairy,"Yogurt, Greek, plain, whole milk",01293,Water,81.30,g
+5d3ae6823711cf27f6a3c06b,dairy,"Yogurt, Greek, plain, whole milk",01293,Energy,97,kcal
+5d3ae6823711cf27f6a3c06c,dairy,"Yogurt, Greek, plain, whole milk",01293,Protein,9.00,g
+5d3ae6823711cf27f6a3c06d,dairy,"Yogurt, Greek, plain, whole milk",01293,Total lipid (fat),5.00,g
+5d3ae6823711cf27f6a3c06e,dairy,"Yogurt, Greek, plain, whole milk",01293,"Carbohydrate, by difference",3.98,g
+5d3ae6823711cf27f6a3c06f,dairy,"Yogurt, Greek, plain, whole milk",01293,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c070,dairy,"Yogurt, Greek, plain, whole milk",01293,"Sugars, total",4.00,g
+5d3ae6823711cf27f6a3c071,meats,"Beef, cured, corned beef, brisket, raw",13346,Water,66.56,g
+5d3ae6823711cf27f6a3c072,meats,"Beef, cured, corned beef, brisket, raw",13346,Energy,198,kcal
+5d3ae6823711cf27f6a3c073,meats,"Beef, cured, corned beef, brisket, raw",13346,Protein,14.68,g
+5d3ae6823711cf27f6a3c074,meats,"Beef, cured, corned beef, brisket, raw",13346,Total lipid (fat),14.90,g
+5d3ae6823711cf27f6a3c075,meats,"Beef, cured, corned beef, brisket, raw",13346,"Carbohydrate, by difference",0.14,g
+5d3ae6823711cf27f6a3c076,meats,"Beef, cured, corned beef, brisket, raw",13346,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c077,meats,"Beef, cured, corned beef, brisket, raw",13346,"Calcium, Ca",7,mg
+5d3ae6823711cf27f6a3c078,meats,"Beef, corned beef hash, with potato, canned",22908,Water,70.32,g
+5d3ae6823711cf27f6a3c079,meats,"Beef, corned beef hash, with potato, canned",22908,Energy,164,kcal
+5d3ae6823711cf27f6a3c07a,meats,"Beef, corned beef hash, with potato, canned",22908,Protein,8.73,g
+5d3ae6823711cf27f6a3c07b,meats,"Beef, corned beef hash, with potato, canned",22908,Total lipid (fat),10.24,g
+5d3ae6823711cf27f6a3c07c,meats,"Beef, corned beef hash, with potato, canned",22908,"Carbohydrate, by difference",9.27,g
+5d3ae6823711cf27f6a3c07d,meats,"Beef, corned beef hash, with potato, canned",22908,"Fiber, total dietary",1.1,g
+5d3ae6823711cf27f6a3c07e,meats,"Beef, corned beef hash, with potato, canned",22908,"Sugars, total",0.34,g
+5d3ae6823711cf27f6a3c07f,meats,"Sandwich spread, pork, beef",07073,Water,60.28,g
+5d3ae6823711cf27f6a3c080,meats,"Sandwich spread, pork, beef",07073,Energy,235,kcal
+5d3ae6823711cf27f6a3c081,meats,"Sandwich spread, pork, beef",07073,Protein,7.66,g
+5d3ae6823711cf27f6a3c082,meats,"Sandwich spread, pork, beef",07073,Total lipid (fat),17.34,g
+5d3ae6823711cf27f6a3c083,meats,"Sandwich spread, pork, beef",07073,"Carbohydrate, by difference",11.94,g
+5d3ae6823711cf27f6a3c084,meats,"Sandwich spread, pork, beef",07073,"Fiber, total dietary",0.2,g
+5d3ae6823711cf27f6a3c085,meats,"Sandwich spread, pork, beef",07073,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c086,meats,"Snacks, beef jerky, chopped and formed",19002,Water,23.36,g
+5d3ae6823711cf27f6a3c087,meats,"Snacks, beef jerky, chopped and formed",19002,Energy,410,kcal
+5d3ae6823711cf27f6a3c088,meats,"Snacks, beef jerky, chopped and formed",19002,Protein,33.20,g
+5d3ae6823711cf27f6a3c089,meats,"Snacks, beef jerky, chopped and formed",19002,Total lipid (fat),25.60,g
+5d3ae6823711cf27f6a3c08a,meats,"Snacks, beef jerky, chopped and formed",19002,"Carbohydrate, by difference",11.00,g
+5d3ae6823711cf27f6a3c08b,meats,"Snacks, beef jerky, chopped and formed",19002,"Fiber, total dietary",1.8,g
+5d3ae6823711cf27f6a3c08c,meats,"Snacks, beef jerky, chopped and formed",19002,"Sugars, total",9.00,g
+5d3ae6823711cf27f6a3c08d,meats,"Bologna, beef",07007,Water,55.31,g
+5d3ae6823711cf27f6a3c08e,meats,"Bologna, beef",07007,Energy,299,kcal
+5d3ae6823711cf27f6a3c08f,meats,"Bologna, beef",07007,Protein,10.91,g
+5d3ae6823711cf27f6a3c090,meats,"Bologna, beef",07007,Total lipid (fat),26.13,g
+5d3ae6823711cf27f6a3c091,meats,"Bologna, beef",07007,"Carbohydrate, by difference",4.29,g
+5d3ae6823711cf27f6a3c092,meats,"Bologna, beef",07007,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c093,meats,"Bologna, beef",07007,"Sugars, total",2.05,g
+5d3ae6823711cf27f6a3c094,meats,"Beef, chuck for stew, separable lean and fat, all grades, cooked, braised",23090,Water,60.08,g
+5d3ae6823711cf27f6a3c095,meats,"Beef, chuck for stew, separable lean and fat, all grades, cooked, braised",23090,Energy,191,kcal
+5d3ae6823711cf27f6a3c096,meats,"Beef, chuck for stew, separable lean and fat, all grades, cooked, braised",23090,Protein,32.41,g
+5d3ae6823711cf27f6a3c097,meats,"Beef, chuck for stew, separable lean and fat, all grades, cooked, braised",23090,Total lipid (fat),6.82,g
+5d3ae6823711cf27f6a3c098,meats,"Beef, chuck for stew, separable lean and fat, all grades, cooked, braised",23090,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c099,meats,"Beef, chuck for stew, separable lean and fat, all grades, cooked, braised",23090,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c09a,meats,"Beef, chuck for stew, separable lean and fat, all grades, cooked, braised",23090,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c09b,meats,"Beef, variety meats and by-products, mechanically separated beef, raw",13330,Water,59.39,g
+5d3ae6823711cf27f6a3c09c,meats,"Beef, variety meats and by-products, mechanically separated beef, raw",13330,Energy,276,kcal
+5d3ae6823711cf27f6a3c09d,meats,"Beef, variety meats and by-products, mechanically separated beef, raw",13330,Protein,14.97,g
+5d3ae6823711cf27f6a3c09e,meats,"Beef, variety meats and by-products, mechanically separated beef, raw",13330,Total lipid (fat),23.52,g
+5d3ae6823711cf27f6a3c09f,meats,"Beef, variety meats and by-products, mechanically separated beef, raw",13330,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c0a0,meats,"Beef, variety meats and by-products, mechanically separated beef, raw",13330,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c0a1,meats,"Beef, variety meats and by-products, mechanically separated beef, raw",13330,"Calcium, Ca",485,mg
+5d3ae6823711cf27f6a3c0a2,meats,"Beef, ground, patties, frozen, cooked, broiled",13317,Water,53.91,g
+5d3ae6823711cf27f6a3c0a3,meats,"Beef, ground, patties, frozen, cooked, broiled",13317,Energy,295,kcal
+5d3ae6823711cf27f6a3c0a4,meats,"Beef, ground, patties, frozen, cooked, broiled",13317,Protein,23.05,g
+5d3ae6823711cf27f6a3c0a5,meats,"Beef, ground, patties, frozen, cooked, broiled",13317,Total lipid (fat),21.83,g
+5d3ae6823711cf27f6a3c0a6,meats,"Beef, ground, patties, frozen, cooked, broiled",13317,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c0a7,meats,"Beef, ground, patties, frozen, cooked, broiled",13317,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c0a8,meats,"Beef, ground, patties, frozen, cooked, broiled",13317,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c0a9,meats,"Salami, cooked, beef",07068,Water,60.00,g
+5d3ae6823711cf27f6a3c0aa,meats,"Salami, cooked, beef",07068,Energy,261,kcal
+5d3ae6823711cf27f6a3c0ab,meats,"Salami, cooked, beef",07068,Protein,12.60,g
+5d3ae6823711cf27f6a3c0ac,meats,"Salami, cooked, beef",07068,Total lipid (fat),22.20,g
+5d3ae6823711cf27f6a3c0ad,meats,"Salami, cooked, beef",07068,"Carbohydrate, by difference",1.90,g
+5d3ae6823711cf27f6a3c0ae,meats,"Salami, cooked, beef",07068,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c0af,meats,"Salami, cooked, beef",07068,"Sugars, total",1.50,g
+5d3ae6823711cf27f6a3c0b0,meats,Bacon and beef sticks,07921,Water,21.60,g
+5d3ae6823711cf27f6a3c0b1,meats,Bacon and beef sticks,07921,Energy,517,kcal
+5d3ae6823711cf27f6a3c0b2,meats,Bacon and beef sticks,07921,Protein,29.10,g
+5d3ae6823711cf27f6a3c0b3,meats,Bacon and beef sticks,07921,Total lipid (fat),44.20,g
+5d3ae6823711cf27f6a3c0b4,meats,Bacon and beef sticks,07921,"Carbohydrate, by difference",0.80,g
+5d3ae6823711cf27f6a3c0b5,meats,Bacon and beef sticks,07921,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c0b6,meats,Bacon and beef sticks,07921,"Sugars, total",0.80,g
+5d3ae6823711cf27f6a3c0b7,meats,"Beef, tenderloin, separable lean and fat, trimmed to 1/8"" fat, prime, raw",13926,Water,59.52,g
+5d3ae6823711cf27f6a3c0b8,meats,"Beef, tenderloin, separable lean and fat, trimmed to 1/8"" fat, prime, raw",13926,Energy,274,kcal
+5d3ae6823711cf27f6a3c0b9,meats,"Beef, tenderloin, separable lean and fat, trimmed to 1/8"" fat, prime, raw",13926,Protein,18.15,g
+5d3ae6823711cf27f6a3c0ba,meats,"Beef, tenderloin, separable lean and fat, trimmed to 1/8"" fat, prime, raw",13926,Total lipid (fat),21.83,g
+5d3ae6823711cf27f6a3c0bb,meats,"Beef, tenderloin, separable lean and fat, trimmed to 1/8"" fat, prime, raw",13926,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c0bc,meats,"Beef, tenderloin, separable lean and fat, trimmed to 1/8"" fat, prime, raw",13926,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c0bd,meats,"Beef, tenderloin, separable lean and fat, trimmed to 1/8"" fat, prime, raw",13926,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c0be,meats,"Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0"" fat, select, cooked, braised",23136,Water,52.74,g
+5d3ae6823711cf27f6a3c0bf,meats,"Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0"" fat, select, cooked, braised",23136,Energy,285,kcal
+5d3ae6823711cf27f6a3c0c0,meats,"Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0"" fat, select, cooked, braised",23136,Protein,28.47,g
+5d3ae6823711cf27f6a3c0c1,meats,"Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0"" fat, select, cooked, braised",23136,Total lipid (fat),19.03,g
+5d3ae6823711cf27f6a3c0c2,meats,"Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0"" fat, select, cooked, braised",23136,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c0c3,meats,"Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0"" fat, select, cooked, braised",23136,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c0c4,meats,"Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0"" fat, select, cooked, braised",23136,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c0c5,meats,"Beef, rib, shortribs, separable lean and fat, choice, cooked, braised",13148,Water,35.72,g
+5d3ae6823711cf27f6a3c0c6,meats,"Beef, rib, shortribs, separable lean and fat, choice, cooked, braised",13148,Energy,471,kcal
+5d3ae6823711cf27f6a3c0c7,meats,"Beef, rib, shortribs, separable lean and fat, choice, cooked, braised",13148,Protein,21.57,g
+5d3ae6823711cf27f6a3c0c8,meats,"Beef, rib, shortribs, separable lean and fat, choice, cooked, braised",13148,Total lipid (fat),41.98,g
+5d3ae6823711cf27f6a3c0c9,meats,"Beef, rib, shortribs, separable lean and fat, choice, cooked, braised",13148,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c0ca,meats,"Beef, rib, shortribs, separable lean and fat, choice, cooked, braised",13148,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c0cb,meats,"Beef, rib, shortribs, separable lean and fat, choice, cooked, braised",13148,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c0cc,meats,Ham and cheese spread,07033,Water,59.13,g
+5d3ae6823711cf27f6a3c0cd,meats,Ham and cheese spread,07033,Energy,245,kcal
+5d3ae6823711cf27f6a3c0ce,meats,Ham and cheese spread,07033,Protein,16.18,g
+5d3ae6823711cf27f6a3c0cf,meats,Ham and cheese spread,07033,Total lipid (fat),18.53,g
+5d3ae6823711cf27f6a3c0d0,meats,Ham and cheese spread,07033,"Carbohydrate, by difference",2.28,g
+5d3ae6823711cf27f6a3c0d1,meats,Ham and cheese spread,07033,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c0d2,meats,Ham and cheese spread,07033,"Calcium, Ca",217,mg
+5d3ae6823711cf27f6a3c0d3,meats,"Pork, cured, ham, whole, separable lean only, roasted",10153,Water,65.78,g
+5d3ae6823711cf27f6a3c0d4,meats,"Pork, cured, ham, whole, separable lean only, roasted",10153,Energy,157,kcal
+5d3ae6823711cf27f6a3c0d5,meats,"Pork, cured, ham, whole, separable lean only, roasted",10153,Protein,25.05,g
+5d3ae6823711cf27f6a3c0d6,meats,"Pork, cured, ham, whole, separable lean only, roasted",10153,Total lipid (fat),5.50,g
+5d3ae6823711cf27f6a3c0d7,meats,"Pork, cured, ham, whole, separable lean only, roasted",10153,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c0d8,meats,"Pork, cured, ham, whole, separable lean only, roasted",10153,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c0d9,meats,"Pork, cured, ham, whole, separable lean only, roasted",10153,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c0da,meats,"Pork, cured, ham and water product, slice, boneless, separable lean only, heated, pan-broil",10870,Water,71.20,g
+5d3ae6823711cf27f6a3c0db,meats,"Pork, cured, ham and water product, slice, boneless, separable lean only, heated, pan-broil",10870,Energy,123,kcal
+5d3ae6823711cf27f6a3c0dc,meats,"Pork, cured, ham and water product, slice, boneless, separable lean only, heated, pan-broil",10870,Protein,15.09,g
+5d3ae6823711cf27f6a3c0dd,meats,"Pork, cured, ham and water product, slice, boneless, separable lean only, heated, pan-broil",10870,Total lipid (fat),5.06,g
+5d3ae6823711cf27f6a3c0de,meats,"Pork, cured, ham and water product, slice, boneless, separable lean only, heated, pan-broil",10870,"Carbohydrate, by difference",4.69,g
+5d3ae6823711cf27f6a3c0df,meats,"Pork, cured, ham and water product, slice, boneless, separable lean only, heated, pan-broil",10870,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c0e0,meats,"Pork, cured, ham and water product, slice, boneless, separable lean only, heated, pan-broil",10870,"Sugars, total",4.69,g
+5d3ae6823711cf27f6a3c0e1,meats,"Fish, salmon, sockeye, raw",15085,Water,72.54,g
+5d3ae6823711cf27f6a3c0e2,meats,"Fish, salmon, sockeye, raw",15085,Energy,131,kcal
+5d3ae6823711cf27f6a3c0e3,meats,"Fish, salmon, sockeye, raw",15085,Protein,22.25,g
+5d3ae6823711cf27f6a3c0e4,meats,"Fish, salmon, sockeye, raw",15085,Total lipid (fat),4.69,g
+5d3ae6823711cf27f6a3c0e5,meats,"Fish, salmon, sockeye, raw",15085,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c0e6,meats,"Fish, salmon, sockeye, raw",15085,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c0e7,meats,"Fish, salmon, sockeye, raw",15085,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c0e8,meats,"Fish, salmon, pink, canned, total can contents",15084,Water,74.04,g
+5d3ae6823711cf27f6a3c0e9,meats,"Fish, salmon, pink, canned, total can contents",15084,Energy,129,kcal
+5d3ae6823711cf27f6a3c0ea,meats,"Fish, salmon, pink, canned, total can contents",15084,Protein,19.68,g
+5d3ae6823711cf27f6a3c0eb,meats,"Fish, salmon, pink, canned, total can contents",15084,Total lipid (fat),4.97,g
+5d3ae6823711cf27f6a3c0ec,meats,"Fish, salmon, pink, canned, total can contents",15084,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c0ed,meats,"Fish, salmon, pink, canned, total can contents",15084,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c0ee,meats,"Fish, salmon, pink, canned, total can contents",15084,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c0ef,meats,"Fish, pollock, Alaska, raw",15266,Water,81.99,g
+5d3ae6823711cf27f6a3c0f0,meats,"Fish, pollock, Alaska, raw",15266,Energy,76,kcal
+5d3ae6823711cf27f6a3c0f1,meats,"Fish, pollock, Alaska, raw",15266,Protein,17.17,g
+5d3ae6823711cf27f6a3c0f2,meats,"Fish, pollock, Alaska, raw",15266,Total lipid (fat),0.82,g
+5d3ae6823711cf27f6a3c0f3,meats,"Fish, pollock, Alaska, raw",15266,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c0f4,meats,"Fish, pollock, Alaska, raw",15266,"Calcium, Ca",12,mg
+5d3ae6823711cf27f6a3c0f5,meats,"Fish, pollock, Alaska, raw",15266,"Iron, Fe",0.27,mg
+5d3ae6823711cf27f6a3c0f6,meats,"Fish, tuna salad",15128,Water,63.16,g
+5d3ae6823711cf27f6a3c0f7,meats,"Fish, tuna salad",15128,Energy,187,kcal
+5d3ae6823711cf27f6a3c0f8,meats,"Fish, tuna salad",15128,Protein,16.04,g
+5d3ae6823711cf27f6a3c0f9,meats,"Fish, tuna salad",15128,Total lipid (fat),9.26,g
+5d3ae6823711cf27f6a3c0fa,meats,"Fish, tuna salad",15128,"Carbohydrate, by difference",9.41,g
+5d3ae6823711cf27f6a3c0fb,meats,"Fish, tuna salad",15128,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c0fc,meats,"Fish, tuna salad",15128,"Calcium, Ca",17,mg
+5d3ae6823711cf27f6a3c0fd,meats,"Fish, salmon, red, canned, bones removed (Alaska Native)",35157,Water,65.82,g
+5d3ae6823711cf27f6a3c0fe,meats,"Fish, salmon, red, canned, bones removed (Alaska Native)",35157,Energy,161,kcal
+5d3ae6823711cf27f6a3c0ff,meats,"Fish, salmon, red, canned, bones removed (Alaska Native)",35157,Protein,27.31,g
+5d3ae6823711cf27f6a3c100,meats,"Fish, salmon, red, canned, bones removed (Alaska Native)",35157,Total lipid (fat),5.76,g
+5d3ae6823711cf27f6a3c101,meats,"Fish, salmon, red, canned, bones removed (Alaska Native)",35157,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c102,meats,"Fish, salmon, red, canned, bones removed (Alaska Native)",35157,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c103,meats,"Fish, salmon, red, canned, bones removed (Alaska Native)",35157,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c104,meats,"Fish, bluefish, raw",15005,Water,70.86,g
+5d3ae6823711cf27f6a3c105,meats,"Fish, bluefish, raw",15005,Energy,124,kcal
+5d3ae6823711cf27f6a3c106,meats,"Fish, bluefish, raw",15005,Protein,20.04,g
+5d3ae6823711cf27f6a3c107,meats,"Fish, bluefish, raw",15005,Total lipid (fat),4.24,g
+5d3ae6823711cf27f6a3c108,meats,"Fish, bluefish, raw",15005,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c109,meats,"Fish, bluefish, raw",15005,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c10a,meats,"Fish, bluefish, raw",15005,"Calcium, Ca",7,mg
+5d3ae6823711cf27f6a3c10b,meats,"Fish, carp, cooked, dry heat",15009,Water,69.63,g
+5d3ae6823711cf27f6a3c10c,meats,"Fish, carp, cooked, dry heat",15009,Energy,162,kcal
+5d3ae6823711cf27f6a3c10d,meats,"Fish, carp, cooked, dry heat",15009,Protein,22.86,g
+5d3ae6823711cf27f6a3c10e,meats,"Fish, carp, cooked, dry heat",15009,Total lipid (fat),7.17,g
+5d3ae6823711cf27f6a3c10f,meats,"Fish, carp, cooked, dry heat",15009,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c110,meats,"Fish, carp, cooked, dry heat",15009,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c111,meats,"Fish, carp, cooked, dry heat",15009,"Calcium, Ca",52,mg
+5d3ae6823711cf27f6a3c112,meats,"Fish, cod, Atlantic, canned, solids and liquid",15017,Water,75.61,g
+5d3ae6823711cf27f6a3c113,meats,"Fish, cod, Atlantic, canned, solids and liquid",15017,Energy,105,kcal
+5d3ae6823711cf27f6a3c114,meats,"Fish, cod, Atlantic, canned, solids and liquid",15017,Protein,22.76,g
+5d3ae6823711cf27f6a3c115,meats,"Fish, cod, Atlantic, canned, solids and liquid",15017,Total lipid (fat),0.86,g
+5d3ae6823711cf27f6a3c116,meats,"Fish, cod, Atlantic, canned, solids and liquid",15017,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c117,meats,"Fish, cod, Atlantic, canned, solids and liquid",15017,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c118,meats,"Fish, cod, Atlantic, canned, solids and liquid",15017,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c119,meats,"Fish, herring, Atlantic, cooked, dry heat",15040,Water,64.16,g
+5d3ae6823711cf27f6a3c11a,meats,"Fish, herring, Atlantic, cooked, dry heat",15040,Energy,203,kcal
+5d3ae6823711cf27f6a3c11b,meats,"Fish, herring, Atlantic, cooked, dry heat",15040,Protein,23.03,g
+5d3ae6823711cf27f6a3c11c,meats,"Fish, herring, Atlantic, cooked, dry heat",15040,Total lipid (fat),11.59,g
+5d3ae6823711cf27f6a3c11d,meats,"Fish, herring, Atlantic, cooked, dry heat",15040,"Carbohydrate, by difference",0.00,g
+5d3ae6823711cf27f6a3c11e,meats,"Fish, herring, Atlantic, cooked, dry heat",15040,"Fiber, total dietary",0.0,g
+5d3ae6823711cf27f6a3c11f,meats,"Fish, herring, Atlantic, cooked, dry heat",15040,"Sugars, total",0.00,g
+5d3ae6823711cf27f6a3c120,fruit,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",09003,Water,85.56,g
+5d3ae6823711cf27f6a3c121,fruit,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",09003,Energy,52,kcal
+5d3ae6823711cf27f6a3c122,fruit,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",09003,Protein,0.26,g
+5d3ae6823711cf27f6a3c123,fruit,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",09003,Total lipid (fat),0.17,g
+5d3ae6823711cf27f6a3c124,fruit,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",09003,"Carbohydrate, by difference",13.81,g
+5d3ae6823711cf27f6a3c125,fruit,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",09003,"Fiber, total dietary",2.4,g
+5d3ae6823711cf27f6a3c126,fruit,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",09003,"Sugars, total",10.39,g
+5d3ae6823711cf27f6a3c127,fruit,"Pears, raw",09252,Water,83.96,g
+5d3ae6823711cf27f6a3c128,fruit,"Pears, raw",09252,Energy,57,kcal
+5d3ae6823711cf27f6a3c129,fruit,"Pears, raw",09252,Protein,0.36,g
+5d3ae6823711cf27f6a3c12a,fruit,"Pears, raw",09252,Total lipid (fat),0.14,g
+5d3ae6823711cf27f6a3c12b,fruit,"Pears, raw",09252,"Carbohydrate, by difference",15.23,g
+5d3ae6823711cf27f6a3c12c,fruit,"Pears, raw",09252,"Fiber, total dietary",3.1,g
+5d3ae6823711cf27f6a3c12d,fruit,"Pears, raw",09252,"Sugars, total",9.75,g
+5d3ae6823711cf27f6a3c12e,fruit,"Peaches, yellow, raw",09236,Water,88.87,g
+5d3ae6823711cf27f6a3c12f,fruit,"Peaches, yellow, raw",09236,Energy,39,kcal
+5d3ae6823711cf27f6a3c130,fruit,"Peaches, yellow, raw",09236,Protein,0.91,g
+5d3ae6823711cf27f6a3c131,fruit,"Peaches, yellow, raw",09236,Total lipid (fat),0.25,g
+5d3ae6823711cf27f6a3c132,fruit,"Peaches, yellow, raw",09236,"Carbohydrate, by difference",9.54,g
+5d3ae6823711cf27f6a3c133,fruit,"Peaches, yellow, raw",09236,"Fiber, total dietary",1.5,g
+5d3ae6823711cf27f6a3c134,fruit,"Peaches, yellow, raw",09236,"Sugars, total",8.39,g
+5d3ae6823711cf27f6a3c135,fruit,"Papayas, raw",09226,Water,88.06,g
+5d3ae6823711cf27f6a3c136,fruit,"Papayas, raw",09226,Energy,43,kcal
+5d3ae6823711cf27f6a3c137,fruit,"Papayas, raw",09226,Protein,0.47,g
+5d3ae6823711cf27f6a3c138,fruit,"Papayas, raw",09226,Total lipid (fat),0.26,g
+5d3ae6823711cf27f6a3c139,fruit,"Papayas, raw",09226,"Carbohydrate, by difference",10.82,g
+5d3ae6823711cf27f6a3c13a,fruit,"Papayas, raw",09226,"Fiber, total dietary",1.7,g
+5d3ae6823711cf27f6a3c13b,fruit,"Papayas, raw",09226,"Sugars, total",7.82,g
+5d3ae6823711cf27f6a3c13c,fruit,"Blueberries, raw",09050,Water,84.21,g
+5d3ae6823711cf27f6a3c13d,fruit,"Blueberries, raw",09050,Energy,57,kcal
+5d3ae6823711cf27f6a3c13e,fruit,"Blueberries, raw",09050,Protein,0.74,g
+5d3ae6823711cf27f6a3c13f,fruit,"Blueberries, raw",09050,Total lipid (fat),0.33,g
+5d3ae6823711cf27f6a3c140,fruit,"Blueberries, raw",09050,"Carbohydrate, by difference",14.49,g
+5d3ae6823711cf27f6a3c141,fruit,"Blueberries, raw",09050,"Fiber, total dietary",2.4,g
+5d3ae6823711cf27f6a3c142,fruit,"Blueberries, raw",09050,"Sugars, total",9.96,g
+5d3ae6823711cf27f6a3c143,fruit,"Strawberries, raw",09316,Water,90.95,g
+5d3ae6823711cf27f6a3c144,fruit,"Strawberries, raw",09316,Energy,32,kcal
+5d3ae6823711cf27f6a3c145,fruit,"Strawberries, raw",09316,Protein,0.67,g
+5d3ae6823711cf27f6a3c146,fruit,"Strawberries, raw",09316,Total lipid (fat),0.30,g
+5d3ae6823711cf27f6a3c147,fruit,"Strawberries, raw",09316,"Carbohydrate, by difference",7.68,g
+5d3ae6823711cf27f6a3c148,fruit,"Strawberries, raw",09316,"Fiber, total dietary",2.0,g
+5d3ae6823711cf27f6a3c149,fruit,"Strawberries, raw",09316,"Sugars, total",4.89,g
+5d3ae6823711cf27f6a3c14a,fruit,"Bananas, raw",09040,Water,74.91,g
+5d3ae6823711cf27f6a3c14b,fruit,"Bananas, raw",09040,Energy,89,kcal
+5d3ae6823711cf27f6a3c14c,fruit,"Bananas, raw",09040,Protein,1.09,g
+5d3ae6823711cf27f6a3c14d,fruit,"Bananas, raw",09040,Total lipid (fat),0.33,g
+5d3ae6823711cf27f6a3c14e,fruit,"Bananas, raw",09040,"Carbohydrate, by difference",22.84,g
+5d3ae6823711cf27f6a3c14f,fruit,"Bananas, raw",09040,"Fiber, total dietary",2.6,g
+5d3ae6823711cf27f6a3c150,fruit,"Bananas, raw",09040,"Sugars, total",12.23,g
+5d3ae6823711cf27f6a3c151,fruit,"Kiwifruit, green, raw",09148,Water,83.07,g
+5d3ae6823711cf27f6a3c152,fruit,"Kiwifruit, green, raw",09148,Energy,61,kcal
+5d3ae6823711cf27f6a3c153,fruit,"Kiwifruit, green, raw",09148,Protein,1.14,g
+5d3ae6823711cf27f6a3c154,fruit,"Kiwifruit, green, raw",09148,Total lipid (fat),0.52,g
+5d3ae6823711cf27f6a3c155,fruit,"Kiwifruit, green, raw",09148,"Carbohydrate, by difference",14.66,g
+5d3ae6823711cf27f6a3c156,fruit,"Kiwifruit, green, raw",09148,"Fiber, total dietary",3.0,g
+5d3ae6823711cf27f6a3c157,fruit,"Kiwifruit, green, raw",09148,"Sugars, total",8.99,g
+5d3ae6823711cf27f6a3c158,fruit,"Oranges, raw, all commercial varieties",09200,Water,86.75,g
+5d3ae6823711cf27f6a3c159,fruit,"Oranges, raw, all commercial varieties",09200,Energy,47,kcal
+5d3ae6823711cf27f6a3c15a,fruit,"Oranges, raw, all commercial varieties",09200,Protein,0.94,g
+5d3ae6823711cf27f6a3c15b,fruit,"Oranges, raw, all commercial varieties",09200,Total lipid (fat),0.12,g
+5d3ae6823711cf27f6a3c15c,fruit,"Oranges, raw, all commercial varieties",09200,"Carbohydrate, by difference",11.75,g
+5d3ae6823711cf27f6a3c15d,fruit,"Oranges, raw, all commercial varieties",09200,"Fiber, total dietary",2.4,g
+5d3ae6823711cf27f6a3c15e,fruit,"Oranges, raw, all commercial varieties",09200,"Sugars, total",9.35,g
+5d3ae6823711cf27f6a3c15f,fruit,"Avocados, raw, all commercial varieties",09037,Water,73.23,g
+5d3ae6823711cf27f6a3c160,fruit,"Avocados, raw, all commercial varieties",09037,Energy,160,kcal
+5d3ae6823711cf27f6a3c161,fruit,"Avocados, raw, all commercial varieties",09037,Protein,2.00,g
+5d3ae6823711cf27f6a3c162,fruit,"Avocados, raw, all commercial varieties",09037,Total lipid (fat),14.66,g
+5d3ae6823711cf27f6a3c163,fruit,"Avocados, raw, all commercial varieties",09037,"Carbohydrate, by difference",8.53,g
+5d3ae6823711cf27f6a3c164,fruit,"Avocados, raw, all commercial varieties",09037,"Fiber, total dietary",6.7,g
+5d3ae6823711cf27f6a3c165,fruit,"Avocados, raw, all commercial varieties",09037,"Sugars, total",0.66,g
+5d3ae6823711cf27f6a3c166,fruit,"Grapefruit, raw, pink and red and white, all areas",09111,Water,90.89,g
+5d3ae6823711cf27f6a3c167,fruit,"Grapefruit, raw, pink and red and white, all areas",09111,Energy,32,kcal
+5d3ae6823711cf27f6a3c168,fruit,"Grapefruit, raw, pink and red and white, all areas",09111,Protein,0.63,g
+5d3ae6823711cf27f6a3c169,fruit,"Grapefruit, raw, pink and red and white, all areas",09111,Total lipid (fat),0.10,g
+5d3ae6823711cf27f6a3c16a,fruit,"Grapefruit, raw, pink and red and white, all areas",09111,"Carbohydrate, by difference",8.08,g
+5d3ae6823711cf27f6a3c16b,fruit,"Grapefruit, raw, pink and red and white, all areas",09111,"Fiber, total dietary",1.1,g
+5d3ae6823711cf27f6a3c16c,fruit,"Grapefruit, raw, pink and red and white, all areas",09111,"Sugars, total",6.98,g
+5d3ae6823711cf27f6a3c16d,fruit,"Grapes, american type (slip skin), raw",09131,Water,81.30,g
+5d3ae6823711cf27f6a3c16e,fruit,"Grapes, american type (slip skin), raw",09131,Energy,67,kcal
+5d3ae6823711cf27f6a3c16f,fruit,"Grapes, american type (slip skin), raw",09131,Protein,0.63,g
+5d3ae6823711cf27f6a3c170,fruit,"Grapes, american type (slip skin), raw",09131,Total lipid (fat),0.35,g
+5d3ae6823711cf27f6a3c171,fruit,"Grapes, american type (slip skin), raw",09131,"Carbohydrate, by difference",17.15,g
+5d3ae6823711cf27f6a3c172,fruit,"Grapes, american type (slip skin), raw",09131,"Fiber, total dietary",0.9,g
+5d3ae6823711cf27f6a3c173,fruit,"Grapes, american type (slip skin), raw",09131,"Sugars, total",16.25,g
+5d3ae6823711cf27f6a3c174,fruit,"Cherries, sweet, raw",09070,Water,82.25,g
+5d3ae6823711cf27f6a3c175,fruit,"Cherries, sweet, raw",09070,Energy,63,kcal
+5d3ae6823711cf27f6a3c176,fruit,"Cherries, sweet, raw",09070,Protein,1.06,g
+5d3ae6823711cf27f6a3c177,fruit,"Cherries, sweet, raw",09070,Total lipid (fat),0.20,g
+5d3ae6823711cf27f6a3c178,fruit,"Cherries, sweet, raw",09070,"Carbohydrate, by difference",16.01,g
+5d3ae6823711cf27f6a3c179,fruit,"Cherries, sweet, raw",09070,"Fiber, total dietary",2.1,g
+5d3ae6823711cf27f6a3c17a,fruit,"Cherries, sweet, raw",09070,"Sugars, total",12.82,g
+5d3ae6823711cf27f6a3c17b,fruit,"Lemons, raw, without peel",09150,Water,88.98,g
+5d3ae6823711cf27f6a3c17c,fruit,"Lemons, raw, without peel",09150,Energy,29,kcal
+5d3ae6823711cf27f6a3c17d,fruit,"Lemons, raw, without peel",09150,Protein,1.10,g
+5d3ae6823711cf27f6a3c17e,fruit,"Lemons, raw, without peel",09150,Total lipid (fat),0.30,g
+5d3ae6823711cf27f6a3c17f,fruit,"Lemons, raw, without peel",09150,"Carbohydrate, by difference",9.32,g
+5d3ae6823711cf27f6a3c180,fruit,"Lemons, raw, without peel",09150,"Fiber, total dietary",2.8,g
+5d3ae6823711cf27f6a3c181,fruit,"Lemons, raw, without peel",09150,"Sugars, total",2.50,g
+5d3ae6823711cf27f6a3c182,fruit,"Mangos, raw",09176,Water,83.46,g
+5d3ae6823711cf27f6a3c183,fruit,"Mangos, raw",09176,Energy,60,kcal
+5d3ae6823711cf27f6a3c184,fruit,"Mangos, raw",09176,Protein,0.82,g
+5d3ae6823711cf27f6a3c185,fruit,"Mangos, raw",09176,Total lipid (fat),0.38,g
+5d3ae6823711cf27f6a3c186,fruit,"Mangos, raw",09176,"Carbohydrate, by difference",14.98,g
+5d3ae6823711cf27f6a3c187,fruit,"Mangos, raw",09176,"Fiber, total dietary",1.6,g
+5d3ae6823711cf27f6a3c188,fruit,"Mangos, raw",09176,"Sugars, total",13.66,g
+5d3ae6823711cf27f6a3c189,fruit,"Limes, raw",09159,Water,88.26,g
+5d3ae6823711cf27f6a3c18a,fruit,"Limes, raw",09159,Energy,30,kcal
+5d3ae6823711cf27f6a3c18b,fruit,"Limes, raw",09159,Protein,0.70,g
+5d3ae6823711cf27f6a3c18c,fruit,"Limes, raw",09159,Total lipid (fat),0.20,g
+5d3ae6823711cf27f6a3c18d,fruit,"Limes, raw",09159,"Carbohydrate, by difference",10.54,g
+5d3ae6823711cf27f6a3c18e,fruit,"Limes, raw",09159,"Fiber, total dietary",2.8,g
+5d3ae6823711cf27f6a3c18f,fruit,"Limes, raw",09159,"Sugars, total",1.69,g
+5d3ae6823711cf27f6a3c190,fruit,"Plums, raw",09279,Water,87.23,g
+5d3ae6823711cf27f6a3c191,fruit,"Plums, raw",09279,Energy,46,kcal
+5d3ae6823711cf27f6a3c192,fruit,"Plums, raw",09279,Protein,0.70,g
+5d3ae6823711cf27f6a3c193,fruit,"Plums, raw",09279,Total lipid (fat),0.28,g
+5d3ae6823711cf27f6a3c194,fruit,"Plums, raw",09279,"Carbohydrate, by difference",11.42,g
+5d3ae6823711cf27f6a3c195,fruit,"Plums, raw",09279,"Fiber, total dietary",1.4,g
+5d3ae6823711cf27f6a3c196,fruit,"Plums, raw",09279,"Sugars, total",9.92,g
+5d3ae6823711cf27f6a3c197,fruit,"Watermelon, raw",09326,Water,91.45,g
+5d3ae6823711cf27f6a3c198,fruit,"Watermelon, raw",09326,Energy,30,kcal
+5d3ae6823711cf27f6a3c199,fruit,"Watermelon, raw",09326,Protein,0.61,g
+5d3ae6823711cf27f6a3c19a,fruit,"Watermelon, raw",09326,Total lipid (fat),0.15,g
+5d3ae6823711cf27f6a3c19b,fruit,"Watermelon, raw",09326,"Carbohydrate, by difference",7.55,g
+5d3ae6823711cf27f6a3c19c,fruit,"Watermelon, raw",09326,"Fiber, total dietary",0.4,g
+5d3ae6823711cf27f6a3c19d,fruit,"Watermelon, raw",09326,"Sugars, total",6.20,g
+5d3ae6823711cf27f6a3c19e,fruit,"Raspberries, raw",09302,Water,85.75,g
+5d3ae6823711cf27f6a3c19f,fruit,"Raspberries, raw",09302,Energy,52,kcal
+5d3ae6823711cf27f6a3c1a0,fruit,"Raspberries, raw",09302,Protein,1.20,g
+5d3ae6823711cf27f6a3c1a1,fruit,"Raspberries, raw",09302,Total lipid (fat),0.65,g
+5d3ae6823711cf27f6a3c1a2,fruit,"Raspberries, raw",09302,"Carbohydrate, by difference",11.94,g
+5d3ae6823711cf27f6a3c1a3,fruit,"Raspberries, raw",09302,"Fiber, total dietary",6.5,g
+5d3ae6823711cf27f6a3c1a4,fruit,"Raspberries, raw",09302,"Sugars, total",4.42,g
